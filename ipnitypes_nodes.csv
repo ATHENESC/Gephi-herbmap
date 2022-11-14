@@ -1,0 +1,5893 @@
+node_id	type_holder_code
+0	MEXU
+1	ANSM
+2	CIIDIR
+3	ENCB
+4	TEX
+5	Herbarium, Institute of Botany
+6	
+7	LE
+8	US
+9	UPS
+10	FT
+11	K
+12	PERTH
+13	CANB
+14	BRI
+15	ARIZ
+16	DAV
+17	NY
+18	RSA
+19	USON
+20	C
+21	KUN
+22	SHIN
+23	BR
+24	LG
+25	WAG
+26	AD
+27	DNA
+28	MO
+29	MBA
+30	NSW
+31	MEL
+32	L
+33	CAL
+34	MH
+35	P
+36	TAN
+37	SKK
+38	U
+39	WU
+40	S
+41	SRGH
+42	E
+43	ASSAM
+44	KNYA
+45	ENT
+46	MHU
+47	EA
+48	BM
+49	MAL
+50	CAS
+51	FHO
+52	BK
+53	CONC
+54	LISI
+55	WUK
+56	MA
+57	CAT
+58	B
+59	FI
+60	AAU
+61	W
+62	KTUB
+63	SING
+64	KEP
+65	A
+66	BO
+67	SAR
+68	MSB
+69	TASH
+70	GAT
+71	Institute of Changbai Mt. Natural Reserve
+72	INB
+73	QCNE
+74	QCA
+75	ULM
+76	ETH
+77	MPU
+78	CPU
+79	BAB
+80	G
+81	MBM
+82	CTES
+83	TER
+84	PAP
+85	BISH
+86	HITBC
+87	BONN
+88	FR
+89	NBG
+90	LPB
+91	HRF
+92	CAG
+93	SASSA
+94	HBG
+95	INPA
+96	M
+97	MY
+98	MYF
+99	PORT
+100	RB
+101	VEN
+102	Herb. Kress
+103	KW
+104	HRB
+105	HEID
+106	CR
+107	HAJB
+108	CAY
+109	F
+110	PTBG
+111	UC
+112	LISU
+113	HN
+114	HNWP
+115	FLOR
+116	SD
+117	IBSC
+118	WUG
+119	UPA
+120	PRE
+121	BOL
+122	SAM
+123	GRA
+124	J
+125	PRC
+126	MG
+127	TAI
+128	NMCR
+129	ESSE
+130	BULU
+131	MICH
+132	ZEA
+133	IBUG
+134	Herbarium, University of Wisconsin
+135	IEB
+136	PAL
+137	ALTB
+138	SPF
+139	HRCB
+140	CESJ
+141	VAB
+142	herb. L. Sáez
+143	CANT
+144	CBU
+145	MAK
+146	TUS
+147	HUA
+148	COL
+149	A. Dobignard
+150	BRY
+151	WTU
+152	WS
+153	NHWP
+154	SI
+155	MERL
+156	MONTU
+157	COLO
+158	RM
+159	LD
+160	GAZI
+161	ANK
+162	ISTE
+163	HIMC
+164	AAS
+165	MARY
+166	HUEFS
+167	USM
+168	HO
+169	MHA
+170	MW
+171	GH
+172	BKF
+173	GXMI
+174	SWFC
+175	SCFI
+176	TEF
+177	EMA
+178	CBG
+179	IBGE
+180	SP
+181	MSUN
+182	LEB
+183	SOM
+184	TNS
+185	USZ
+186	CHR
+187	KFRI
+188	SAN
+189	Kinabalu Park Herbarium
+190	University Malaysia Sarawak Herbarium
+191	RBM
+192	UBC
+193	DUKE
+194	GB
+195	SGO
+196	SGO (118386) (118386)
+197	EAP
+198	BRUN
+199	UPR
+200	ASU
+201	JBSD
+202	MAPR
+203	Agricultural University of Yunnan
+204	SYS
+205	TFAV
+206	BISC
+207	Herbarium Bradeanum
+208	SEL
+209	WELT
+210	AK
+211	BRCH
+212	BRIT
+213	CM
+214	FTG
+215	GENT
+216	KANU
+217	KNK
+218	MIN
+219	NLU
+220	OKL
+221	PH
+222	TENN
+223	UARK
+224	VDB
+225	WIS
+226	WAIK
+227	NCU
+228	Herb. Bryson
+229	QMEX
+230	UAMIZ
+231	SZ
+232	CDBI
+233	UB
+234	UB-64
+235	UB-65
+236	UB-66
+237	HUJ
+238	UB-67
+239	Akdeniz University Herbarium
+240	HUB
+241	GE
+242	Xixian Agricultural Experiment Station
+243	BJFC
+244	SOA
+245	BH
+246	USJ
+247	Herb. Forest Dept., Gangtok
+248	CEPEC
+249	AMES
+250	MOL
+251	MSC
+252	XAL
+253	ISC
+254	CHAPA
+255	HAL
+256	FCME
+257	HBCB
+258	NTUF
+259	Herb. H. Königer
+260	CIT
+261	GFJP
+262	RPSC
+263	KYO
+264	CBM
+265	TI
+266	SCA
+267	YA
+268	LAE
+269	CIDIR
+270	HUAA
+271	CHAP
+272	IZTA
+273	FRU
+274	UG
+275	SM
+276	NAS
+277	IFP
+278	MUB
+279	UWO
+280	TRT
+281	TEX-LL
+282	GUADA
+283	ASTC
+284	SANT
+285	WIND
+286	FLAS
+287	LL
+288	NOU
+289	Z
+290	WYF
+291	GXF
+292	IBK
+293	Dept. of Biology, Dali Teachers College, Yunnan
+294	SEV
+295	GRM
+296	GM
+297	KL
+298	Herb. Halda
+299	NSK
+300	BCF
+301	Deutsche Orchideen-Gesellschaft
+302	AIBU
+303	HEAC
+304	Herb. Luoyang Agricultural College
+305	TBGT
+306	PMA
+307	HNMN
+308	PBL
+309	PNH
+310	JAUM
+311	OS
+312	AA
+313	RAB
+314	GZFI
+315	BTU
+316	LI
+317	STE
+318	SBBG
+319	HAS
+320	WHBI
+321	Cante herbarium
+322	HNT
+323	UNAM
+324	BSJO
+325	US?
+326	SUVA
+327	DBN
+328	LISC
+329	Herb. Pierre Delforge
+330	NT
+331	WSY
+332	NS
+333	GUAY
+334	Aden Univ.
+335	NE
+336	HAO
+337	LSU
+338	PR
+339	herb. H. Akhani
+340	FCO
+341	MAF
+342	NEFU
+343	SIMAO
+344	BLAT
+345	HB
+346	ZSS
+347	PACA
+348	BAK
+349	R
+350	LP
+351	Kununurra
+352	UNSW
+353	Orchid Herbarium, Tipi
+354	VIT
+355	EBUM
+356	NMW
+357	KUS
+358	CANTE
+359	Australian National Herbarium CBG
+360	National Herbarium of New South Wales CBG
+361	JPB
+362	BRLU
+363	MEDEL
+364	SCIB
+365	HJ
+366	BRG
+367	ORE
+368	OSU
+369	HUTM
+370	POZG
+371	MOG
+372	MI
+373	MJG
+374	NH
+375	CRVD
+376	CUZ
+377	IAN
+378	RAW
+379	FAU
+380	LUH
+381	NENU
+382	ODU
+383	CALI
+384	BOLV
+385	CONN
+386	CPUN
+387	MADJ
+388	UFP(17576) (17576)
+389	MAYOTTE
+390	MSTR
+391	XJU
+392	Herb. Inst. Bot. Boreali-occident. Acad. Sin.
+393	Herb. North-West Plateau Inst. Biol. Acad. Sin. Xining.
+394	AIC
+395	COI
+396	KPM
+397	XJA
+398	UPM
+399	Herb. China Pharmaceutical University
+400	Chengdu Second Institute for Drug Control
+401	TAIF
+402	ABH
+403	SDNU?
+404	JEPS
+405	SFSU
+406	JRAU
+407	ASC
+408	GUH
+409	DS
+410	DHL
+411	OBI
+412	HCIB
+413	CORD
+414	HERB. VASQUEZIANUM
+415	UNALM
+416	MERF
+417	HAL (NO. 078526) (NO.
+418	MNHN
+419	UFG
+420	Herbarium, Field Museum of Natural History #2027197
+421	Philippine National Herbarium #2027197
+422	Arnold Arboretum #2027197
+423	ZM
+424	SMAO
+425	Madras University Herbarium, Chennai
+426	EGE
+427	UB(68) (68)
+428	PSU
+429	HAN
+430	BAA
+431	LIL
+432	AMAZ
+433	HGCM
+434	VIC
+435	HFGP
+436	PE
+437	MAN
+438	herb. Fco. Gómiz
+439	CAN
+440	Herbarium Instituti Botanici, Mutina
+441	Herb. R. Soca
+442	P. Rabaute
+443	BCMEX
+444	ERE
+445	COA
+446	MGC
+447	Herb. J.J. Halda
+448	Baokang Forestry Research Institute
+449	Wuhu Municipal Drug Bureau
+450	CAF
+451	AAB
+452	ICN
+453	LOJA
+454	QAME
+455	CUVC
+456	LMA
+457	NEU
+458	Herbarium, University of California
+459	NEFI
+460	ZSS AX 17800/B
+461	ZSS AX 17777/B
+462	GOET
+463	UEC
+464	EAC
+465	SRP
+466	MA(REAL JARDIN BOTANICO) (REAL JARDIN BOTANICO)
+467	SCZ
+468	OOM
+469	HMNM
+470	IBE
+471	GUAT
+472	HAL (NO. 075288) (NO.
+473	An-ji Bamb. Gard.
+474	BERN
+475	JBSD (69564) (69564)
+476	TCD
+477	Herb. Jenny
+478	LIV
+479	SLO
+480	UNE
+481	QRS
+482	HNAU
+483	SDAU
+484	CANU
+485	JJT
+486	IAC
+487	Herb. of Inst. of Plateau Ecology, Tibet
+488	TULV
+489	Northwest Institute of Bectang
+490	MVFA
+491	UFP
+492	XJBI
+493	HEH
+494	TEFH
+495	JACA
+496	ANUB
+497	YUNU
+498	Bet Herb. Wa
+499	ZT
+500	herb. Matzke-Hajek
+501	herb. Weber
+502	JE
+503	KA
+504	herb. Wieland Schnedler
+505	WISC
+506	SWFE
+507	GAUF
+508	KAS
+509	ISTO
+510	OSS
+511	Herb. Chonnam Univ.
+512	PEM
+513	SIC
+514	PRG (PR?)
+515	GXFA
+516	TUAT
+517	TNM
+518	UFMT
+519	RO
+520	ZAU
+521	TFC
+522	KO
+523	LBV
+524	HERB. JENNY
+525	GUA
+526	BC
+527	BA
+528	GXNM
+529	LZ
+530	UNC
+531	Natural History Museum of Iran
+532	Herb. Podlech
+533	MER
+534	CVRD
+535	BRNU
+536	ALA
+537	NMC
+538	HERB. G. B. HINTON
+539	EU
+540	Yongdeing Institute of Forest
+541	O
+542	Herb. Lobin
+543	GAT TRI
+544	TRI TRI
+545	Herb. Pristina
+546	K (photo)
+547	L (photo)
+548	CTESN
+549	?CTES
+550	HUT
+551	Q
+552	NDC
+553	PRU
+554	BHCB
+555	CEN
+556	BRNM
+557	MCNS
+558	TK
+559	G-Boiss
+560	WU-Hal
+561	DSM
+562	UT
+563	MPN
+564	MGB
+565	HPPR
+566	NHT
+567	Eco-environmental Institute of Liaoning University
+568	MBML
+569	DD
+570	RNG
+571	IBG
+572	HE
+573	herb. Plocek
+574	KAGS
+575	ECON
+576	KMG
+577	SVER
+578	KANA
+579	TOYA
+580	Herb. Danton
+581	MPU-AfN
+582	MPU-Weiller
+583	GZU
+584	HAC
+585	LEA
+586	NASC
+587	Agriculture Broome
+588	BCUGX
+589	PSO
+590	FMB
+591	SUK
+592	BSI
+593	BLATT
+594	XALU
+595	HPZB
+596	FSU
+597	Herb. Institut des Régions Arides, Médenine
+598	COAH
+599	CGE
+600	Herbarium, Korea Plant Research Institute
+601	MARE
+602	TARI
+603	Soc. Éch. Pl. Vasc. Eur. Bass. Médit.
+604	LB
+605	SIFS
+606	MISSA
+607	SHST
+608	TAES
+609	TAMU
+610	USCH
+611	INBIO
+612	AHMA
+613	LE?
+614	BHU
+615	Herb. Gangtok Forest Dept.
+616	Herb. National Sun Yat-Sen University
+617	Vietnam National University Herbarium
+618	HNU
+619	Celal Bayar University
+620	BEOU
+621	HMD
+622	TEX (LL) (LL)
+623	NC
+624	UNA
+625	WIN
+626	Herb. Vasquezianum
+627	HXBH
+628	Herb. Ravenna
+629	JFC
+630	MACB
+631	OSH
+632	QC
+633	CIB
+634	USM (SPIRIT) (SPIRIT)
+635	Orchid Herbarium Tipi
+636	herb. Botany Dept., Dayalbagh Educational Inst.
+637	COL?
+638	LA
+639	Herb. J.-P. Demoly
+640	CHSC
+641	SMU
+642	MOLDENKE
+643	LUAI
+644	LMU
+645	CAUP
+646	?
+647	XZE
+648	SAV
+649	CEPLAC
+650	Shenzhen Wutongshan Nurseries
+651	Shenzen Wutongshan Nurseries
+652	Shenzhen Wutongshan NurseriesZhangping,
+653	UB76
+654	TAA
+655	DES
+656	Herb. Harbin Normal Univ.
+657	AMZ
+658	PDA
+659	NCBG
+660	LPA
+661	HAW
+662	UAS
+663	ZSS AX
+664	ZSS A
+665	NM
+666	SAN?
+667	AHUC
+668	MNA 2256/B 12747
+669	BEL
+670	SALA
+671	RHT
+672	IPA
+673	DAR
+674	BL
+675	RENO
+676	UTC
+677	UVIC
+678	RYU
+679	TCF
+680	Herb. Korea Plant Research Institute
+681	HUMO
+682	KUH
+683	Herb. Institutum Planta Generativum Plasma, Univ. Kyoto
+684	Herb. Inst. Plant Generativ. Plasma, Univ. Kyoto
+685	BCC-Corm
+686	FIAF
+687	PAV
+688	WAN
+689	BOG
+690	TL
+691	LWG
+692	Khon Kaen University
+693	VANF
+694	Herb. Tison
+695	Herb. Fac. Agron. Plovdiv
+696	NU
+697	MRSC
+698	HUQ
+699	TO-HG
+700	Herb. J.-P.Demoly
+701	ARUN
+702	GNUC
+703	GA
+704	SNU
+705	GFW
+706	Herb. Raabe
+707	Herb. Gottschlich
+708	KGU
+709	KRAS
+710	SSBG
+711	CA
+712	MOSC
+713	SNP
+714	Herb. Dept. biology, Dali Teachers College
+715	OAC
+716	DAO
+717	DFB
+718	MIL
+719	MU
+720	SJ
+721	CCSV
+722	BSHC
+723	Herb. Conti
+724	TUR
+725	OWU
+726	FM INPA
+727	Herb. Anhui College of Education
+728	UNIN
+729	AGUAT
+730	UPRRP
+731	SCBI
+732	BCC
+733	Herb. L. Sáez
+734	KLU
+735	Shenzhen city Wutongshan Nurseries
+736	MSW
+737	Herb. Chiba University
+738	AMO
+739	USF
+740	ILLS
+741	ALCB
+742	SRSC
+743	H
+744	OQU
+745	MUH
+746	MSU
+747	VAL
+748	GJO
+749	HERB. VASQUEZ
+750	OTA
+751	OSA
+752	herbier de la Rochelle
+753	coll. H.F. Paulus
+754	coll. Paulus
+755	STU
+756	herb. P. Rabaute
+757	ON
+758	ESA
+759	Herbarium Schlechter Institute
+760	SCHLE
+761	Herb. Ando
+762	CPHN
+763	Queensland Herbarium AQ
+764	?DSM
+765	OSC
+766	MMTT
+767	hb. Akh.
+768	MEX
+769	FEZA
+770	SL
+771	NWUB
+772	Herb. Henan Agricultural University
+773	ROV
+774	Herb. Inst. of Plateau Ecology, Tibet
+775	CNU
+776	BG
+777	MOR
+778	MWI
+779	HSIA
+780	herb. Hörandl
+781	Hb. Br
+782	Herb. Gutermann
+783	herb. Gutermann
+784	Herb. Hörandl
+785	SCB
+786	YUKU
+787	Herb. Loos
+788	BOCH
+789	Herb. H. Henker
+790	herb. A. Newton
+791	Herb. Weber
+792	HGAS
+793	POLL
+794	Herb. Lang
+795	WILLU
+796	PE [P]
+797	UB(69) (69)
+798	HNMN?
+799	SHI
+800	HERB. VáSQUEZ.
+801	HERB. VáSQUEZ
+802	UB70
+803	Dr. Babasaheb Ambedkar Marathwada University
+804	UNEX
+805	SKO
+806	USP
+807	BC-Sennen
+808	UQRQ
+809	SLPM
+810	EWH
+811	PTIS
+812	CIP
+813	CPNU
+814	UFPE
+815	HYOG
+816	Shoei Junior College, Kobe
+817	Herb. Yıldırımlı
+818	HPZ
+819	SHC
+820	XALUV
+821	HIMU
+822	TURA
+823	MGC 37073 (central specimen)
+824	Herbario de la Universidad de Almería
+825	HERB. ALEJANDRO VON HUMBOLDT
+826	HERB. PUPULIN
+827	SHM
+828	GIFU
+829	IRAN
+830	UNAN
+831	HINTON HERB.
+832	CU
+833	NBI
+834	MJP
+835	CAHUP
+836	PUH
+837	ISB
+838	RSAQ
+839	OAX
+840	BRH
+841	UJAT
+842	SQUH
+843	VSC
+844	MELU
+845	NSE
+846	WU-Keck
+847	TROM
+848	SYD
+849	RIOC
+850	SRFA
+851	University of Aden
+852	BAMU Aurangabad
+853	Herbarium, Universität Heidelberg Orch-911
+854	CDRI
+855	Herb. Jardí Botànic Marimurtra
+856	herb. Jardí Botànic Marimurtra
+857	herb. Kress
+858	Herb. Inst. Bot. Sect. Biol. Ac. Sci. RPDK (Pyongjang)
+859	UNM
+860	herb. Bänziger
+861	LIP
+862	DNZ
+863	THIM
+864	Sichuan School of Chinese Materia Medica
+865	BASBG
+866	BSB-VO
+867	Herbarium, University of Minnesota
+868	GRO
+869	herb. Tan
+870	herb. Sfikas
+871	UCR
+872	HUFU
+873	FHI
+874	GXEM
+875	Herb. Guizhou Institute of Chinese Materia Medica
+876	MMI-D
+877	OULU
+878	LY
+879	UGDA
+880	IAGB
+881	IEC
+882	NDO
+883	BIGUA
+884	VIES
+885	CANB?
+886	NSW?
+887	YNTBI
+888	MASE
+889	IJ
+890	ctb
+891	VPI
+892	HSC
+893	Herbarium, Universität Heidelberg 0-22596 (=103948)
+894	ZA
+895	herb. Akhani
+896	BD
+897	BEO
+898	Herb. Shandong Institute of Pomology
+899	CHIP
+900	B?
+901	KY
+902	herb. Demoly
+903	SCUTA
+904	TUH
+905	XJMI
+906	KTUH
+907	KE-GRAHAM
+908	SKU
+909	Herb. V. L. Komarov Botanical Institute
+910	UB-77
+911	UB(78) (78)
+912	ISBC
+913	DGU
+914	IMB
+915	CB
+916	HERZU
+917	HUA?
+918	AMAZ?
+919	NHA
+920	herb. du projet Curef à Bata
+921	MEXU. MO
+922	Herb. Wolff
+923	BSA
+924	BFD
+925	K (ILL. VOUCHER) (ILL. VOUCHER)
+926	TOLI
+927	STR
+928	HPUJ
+929	SP (EX MG 5248) (EX MG
+930	HNNU
+931	BP
+932	MCMEX
+933	SDSU
+934	UCSB
+935	JBVN
+936	CYP
+937	NICE
+938	UMS
+939	CHSB
+940	BNU
+941	TBI
+942	GNUBD
+943	NAP
+944	TNU
+945	FSC
+946	NGB
+947	HUMS
+948	Herb. Museum d'Histoire Naturelle de Grenoble
+949	Herb. O. Gerbaud
+950	PRC (4696) (4696)
+951	FCQ
+952	CPAP
+953	LIL?
+954	SAL
+955	Herb. National de Guinée équatoriale à Bata
+956	MSK
+957	HAST
+958	UCV
+959	Museum and Cultural Institution of Miyazaki Pref.
+960	UKG
+961	AU
+962	CSFI
+963	LBG
+964	JSBI
+965	ZHNM
+966	HZBG
+967	Herb. W. Königer
+968	KATH
+969	SNUA?
+970	ISTC
+971	Herb. Erben
+972	Herb. Nydegger
+973	AMES (ORIGINAL DRAWING) (ORIGINAL DRAWING)
+974	GREE
+975	HBAC
+976	POZ
+977	NSYSU
+978	Herb. Henan Agric. Univ.
+979	SLPM (27484) (27484)
+980	SFC
+981	UEXC
+982	SINU
+983	Herb. Fernández Casas
+984	MJ
+985	Tribhuvan University Herbarium
+986	GCMI
+987	herb. Jean-François Perrin
+988	Faculté des Sciences de St-Jérôme, Marseille
+989	UACHP
+990	ASU (3 SHEETS)
+991	DR
+992	Herb. Uhlich
+993	PVV
+994	SYKO
+995	SO
+996	HERB. RAVENNA
+997	CIMI
+998	Herbarium of Fudan University
+999	VLA
+1000	Herbarium, Universität Heidelberg Orch-909
+1001	MVM
+1002	Herb. Sout.
+1003	LZU
+1004	Curtin University
+1005	LILL
+1006	ZJFI
+1007	HERB. HINTON
+1008	P-LAM (S.C. 325) (S.C.
+1009	KOELN
+1010	UKMS
+1011	ILL
+1012	Herb. Guangxi Inst. Trad. Medic. & Pharm. Sci.
+1013	OAO
+1014	LUA
+1015	Herb. Bot. Lab. Comenius University
+1016	BRA
+1017	NAS?
+1018	Herb. J.M.H. Shaw
+1019	WIR
+1020	HULE
+1021	RGN
+1022	TAK
+1023	PERM
+1024	XJA-IAC
+1025	NMB
+1026	PCHM
+1027	WFU
+1028	ADEL
+1029	KIEL
+1030	Herb. Matzke-Hajek
+1031	LUX
+1032	BREM
+1033	IPS
+1034	Herb. Chengdu Inst. Biol. Acad. Sin.
+1035	herb. Alejandre
+1036	AUR
+1037	Mahidol University, Thailand
+1038	TEX/LL
+1039	BAS
+1040	MRSSJ
+1041	Herb. Bennett
+1042	HERB. BENNTTIANUM
+1043	OCH
+1044	WAT
+1045	LAM
+1046	MONT
+1047	ID
+1048	WELTU
+1049	herb. H. >U>!llgaard
+1050	Herb. C.E.Sonck
+1051	Herb. C.E. Sonck
+1052	Herb. H. >U>!llgaard
+1053	Herb. C.-F.Lundevall
+1054	Herb. J.Räsänen
+1055	Herb. Institute of Botany
+1056	NBG?
+1057	KARR
+1058	HG-PAD
+1059	CICY
+1060	Herb. K.H. Schmidt
+1061	Herb. W. Lobin
+1062	ADW
+1063	MOSP
+1064	PEL
+1065	BAYLU
+1066	CLEMS
+1067	CTB
+1068	JSU
+1069	WILL
+1070	CL
+1071	Herb. Starmühler
+1072	KRAM
+1073	HM
+1074	MICH?
+1075	ATH
+1076	Herb. Dept. Biology, Dali Teacher's college
+1077	EAN
+1078	PEUFR
+1079	herb. Parolly
+1080	herb. Hein
+1081	herb. Kürschner
+1082	LLANO
+1083	LTR
+1084	Chorog, Hortus Botanicus
+1085	MO(fragment)
+1086	SPKCES
+1087	MT
+1088	M QCA
+1089	Herb. Holmström
+1090	Forestry Research Centre, Laos
+1091	UBS
+1092	FIELD
+1093	UNB
+1094	UCB
+1095	MBK
+1096	SDFS
+1097	Herb. Greuter
+1098	Museum and Cultural Institution Miyazaki Pref.
+1099	Herb. of Plateau Ecol. Inst., Tibet
+1100	EBB
+1101	Herb. Shivaji University, Kolhapur
+1102	CHIAN
+1103	UIS
+1104	Herb. Teppner
+1105	Herb. Shenzhen City Wutongshan Nurseries
+1106	Herb. J.-L.Gathoye
+1107	DEK
+1108	SJNM
+1109	ADO
+1110	Herb. Yıldırmlı
+1111	UAT
+1112	G?
+1113	M?
+1114	MADI
+1115	SCHG
+1116	Bata, Direction du Project de CUREF
+1117	RIY
+1118	SEVF
+1119	Herb. L.C.Pinatzi
+1120	HBR
+1121	CDS
+1122	GES
+1123	UPCB
+1124	Herb. Rice
+1125	KPBG
+1126	Pilbara Regional Herbarium
+1127	NY?
+1128	PY
+1129	herb. Kit Tan
+1130	Herb. Demoly
+1131	Herb. Naturmuseum Bozen
+1132	IBF
+1133	Herb. G. Gottschlich
+1134	Herb. F.-G. Dunkel
+1135	Hieracia Europaea Selecta
+1136	Herb. Naturkundemuseum Bozen
+1137	Soc. Éch. Pl. Vasc. Eur. Bass. Med.
+1138	Herb. M. Nydegger
+1139	herb. Gottschlich
+1140	Herb. J. Heinrichs
+1141	Korea Plant Research Institute
+1142	UDBC
+1143	CCSU
+1144	SRCG
+1145	Herb. G. Seidenfaden
+1146	Herb., Jawaharlal Nehru Rajkeeya Mahavidyalaya, Port Blair
+1147	NAQS
+1148	BA. BM
+1149	HIB
+1150	Gangtok Forest Department Herb.
+1151	Herbarium, Department of Primary Industries AQ
+1152	Northern Territory Herbarium (DNA) AQ
+1153	Rijksherbarium AQ
+1154	National Herbarium of Victoria AQ
+1155	Herbarium, Royal Botanic Gardens AQ
+1156	EMA?
+1157	Herb. E.J. Clement
+1158	FRE
+1159	TISTR
+1160	KTM
+1161	JE?
+1162	P?
+1163	S?
+1164	BREM?
+1165	W?
+1166	MO?
+1167	G. B. HINTON
+1168	HERB
+1169	HEB. H. KöNIGER
+1170	BMU
+1171	NTNTC
+1172	XCH
+1173	Herb. Donnison-Morgan
+1174	M. USM
+1175	PI
+1176	Herbarium, Universität Heidelberg Orch-940
+1177	Herb. P. Delforge
+1178	Herb. J. & P. Devillers-Terschuren
+1179	Herb. Toulouges
+1180	Herb. H. van Looken
+1181	Herb. J. &amp
+1182	P. Devillers-Terschuren
+1183	Herb. Christian Bernard
+1184	Herb. Naturkundemuseum Kassel
+1185	GH. GOET
+1186	N
+1187	MS
+1188	Inst. Ecol. Biol. Resources, Hanoi
+1189	IRVC
+1190	ESS
+1191	Herbarium, Universität Bayreuth
+1192	UU
+1193	NF
+1194	PYU
+1195	KSC
+1196	Australian National Herbarium AQ
+1197	National Herbarium of New South Wales AQ
+1198	AMES (fragment)
+1199	Univ. de Brasilia
+1200	Inst. Pesquisas Exp. Agric. Do Norte
+1201	ANU
+1202	Herb. Inst. Bot. Bor.-occ. Yang-ling
+1203	herb. Böhling
+1204	Sabah Parks Herbarium
+1205	MN
+1206	Herb. Xichang Agricultural College
+1207	NCUF
+1208	Herb. K. Meijer
+1209	Herb. Kiesewetter
+1210	?BAA
+1211	NXAC
+1212	WNG
+1213	PBM
+1214	Suan Luang Rama IX herbarium
+1215	CAI
+1216	JCT
+1217	MAU
+1218	REU
+1219	ORT
+1220	HERB. BENNETTIANUM
+1221	herb. Gaisberg
+1222	GDA
+1223	DUF
+1224	Herb. G.B. Hinton
+1225	Northeast Normal University, Changchun
+1226	ACAD
+1227	Botany Dept., University of Santo Tomas, Manila
+1228	HNAC
+1229	Herb. Lanzhou university
+1230	Aden University
+1231	YILDIRIMLI
+1232	KRA
+1233	WCU
+1234	QBG
+1235	ORPI
+1236	GCNP
+1237	CAS-DS
+1238	LAGU
+1239	AEF
+1240	XIA
+1241	BHZB
+1242	AVE
+1243	Herbarium Yıldırımlı
+1244	Suan Luang Rama IX Herbarium
+1245	BATA
+1246	Herb. Dickore
+1247	Herb. Ferdousi University, Mashhad
+1248	CMMI
+1249	VT
+1250	K-LINDL
+1251	SZU
+1252	ALB
+1253	UWA
+1254	GUYN
+1255	DOV
+1256	AUA
+1257	BUT
+1258	NEB
+1259	OMAA
+1260	HERB. C. T. BRYSON
+1261	EKY
+1262	MDKY
+1263	Herb. Charles T.Bryson
+1264	UB-80
+1265	?CANB
+1266	FOF [FOF0005193]
+1267	HNL
+1268	UBT
+1269	HYO
+1270	SHILLONG
+1271	Regional Research Laboratory Herbarium , Jorhat
+1272	HBJ
+1273	UMBS
+1274	IMD
+1275	BBS
+1276	AMM
+1277	CMU
+1278	?BM
+1279	?QRS
+1280	UCCH
+1281	herb. Starmühler
+1282	SDCM
+1283	BLA
+1284	Herb. J.Schlauer
+1285	Sanatana Dharma College Herbarium
+1286	HUNI
+1287	Cebtre Ecol. Stud., Indian Inst. Sci., Bangalore
+1288	St. Joseph's College, Bangalore
+1289	SAT
+1290	OXF
+1291	HEID Orch-913
+1292	HERB.
+1293	DOD
+1294	Herb. Bennettianum
+1295	BSD
+1296	GFJB
+1297	UKMB
+1298	AQUI
+1299	HUP
+1300	National Herbarium of Victoria CBG
+1301	Queensland Herbarium CBG
+1302	Herbarium, Royal Botanic Gardens CBG
+1303	State Herbarium of South Australia CBG
+1304	herb. Rice
+1305	AZU
+1306	BAF
+1307	Res. Inst. Evol. Biol. Tokyo
+1308	Res. Inst. Evol. Biol., Tokyo
+1309	LIL UB
+1310	RFA
+1311	LBC
+1312	NAG
+1313	Herb. Z. Szeląg
+1314	MFU
+1315	Herb. F.G.Dunkel
+1316	TARCH
+1317	CPATSA
+1318	HUEFS null
+1319	CPATSA null
+1320	IPA null
+1321	K null
+1322	VEC
+1323	UCAM
+1324	GXCM
+1325	Herb. Khon Kaen University
+1326	Herb. Aberlin
+1327	TFMC
+1328	SAPT
+1329	Hunan Forest Botanical Garden
+1330	HAM
+1331	VASQ
+1332	HERB. KöNIGER
+1333	CHOCO
+1334	LTB
+1335	UPNG
+1336	Sri Paramakalyani Centre for Environmental Sciences
+1337	KOR
+1338	Herb. Kit Tan
+1339	BCU
+1340	Abaca Research Center, Leyte State University
+1341	Dept. Botany, College of Arts and Sciences, Univ. Philippines Los Banos
+1342	HJB
+1343	ANDA
+1344	SI?
+1345	SPSF
+1346	PMSP
+1347	IBIW
+1348	HERB. H. KöNIGER
+1349	Herb. Mustafa Kemal University
+1350	herb. J.Benito
+1351	Herb. Paulus
+1352	herb. Thiele
+1353	Herb. Horti bot. Vladivostok
+1354	Herb. Inst. biochim. Vladivostok
+1355	Herb. Univ. Sichuan
+1356	BJNU
+1357	CLU
+1358	SS
+1359	GXMG
+1360	Herb. Guangxi Botanical Garden of Medicinal Plants
+1361	Herb. Shenzhen City Wutonghshan Nurseries
+1362	HUSA
+1363	IPGRI
+1364	VALLE
+1365	TFD
+1366	SUA
+1367	LJU
+1368	TSB
+1369	FKSE
+1370	URO
+1371	Arunachal Pradesh Forest Herbarium
+1372	WIR17 7
+1373	HWNP
+1374	WCSU
+1375	Sri Paramakalyani Centre for Environmental Sci.
+1376	IFE
+1377	Herb. Biol. Depart. Chongqing Teach. Col.
+1378	BAFC
+1379	HGT
+1380	Soc. Ech. Pl. vasc. Europe Bass. medit.
+1381	Herb. Northwestern College of Forestry
+1382	Herb. Fac. Forestr. Banjaluka
+1383	in herbario facultatis Lugdunensium
+1384	GUAM
+1385	BSIP
+1386	Herb. Francisco Gómiz
+1387	HPH
+1388	MMBM
+1389	Herb. Dörr
+1390	Herb. H.E.Weber
+1391	Herbarium Reservati Marini Extremiorientali
+1392	Herb. A.Newton
+1393	Herb. A.L.Bull
+1394	Bom Sucesso
+1395	CIS
+1396	TYM
+1397	UNSL
+1398	Herb. Ristow
+1399	W-R
+1400	RBR
+1401	NCSC
+1402	MINN
+1403	NZFRI
+1404	CVRDL
+1405	PRA
+1406	EDTU
+1407	HERB. SULEKIC
+1408	BSC
+1409	Herb. Shahid Beheshti University
+1410	BRNM 642
+1411	SPSE
+1412	us
+1413	AK 253151, 253152 &
+1414	KAT
+1415	R. SEL
+1416	KATO
+1417	Herb. Kalheber
+1418	herb. Kalheber
+1419	HAJ
+1420	QCNA
+1421	Herb. Dept. Biology, Univ. of Nanking
+1422	Herb. Wuhan Bot. Inst., Acad. Sin.
+1423	herb. Viane & Van den Heede
+1424	Herb. Viane & Van den Heede
+1425	POM
+1426	Herb. Yildirimili
+1427	Herb. Acad. Ciencias, Cuba
+1428	Herb. Jard. Bot. Nac.
+1429	Herb. Inst. Invest. Fundam. Agric. Trop.
+1430	Herb. Fac. Montaña Escambray
+1431	Herb. Gauhati University, Guwahati
+1432	CAL 2512B &
+1433	SEGC
+1434	Herbarium, Faculty of Pharmaceutical Sciences, Kanazawa University
+1435	Khon Kaen University Herbarium
+1436	TFS
+1437	147146
+1438	149826
+1439	herb. Agricultural Research & Extension Authority, Dhamar
+1440	HERB. BRYSON
+1441	LOU
+1442	HERB. UNIV. NAC. SAN AUGUSTIN
+1443	Herb. Jahn
+1444	Herbarium of Regional Research Laboratory, Jorhat, Assam
+1445	canb
+1446	V
+1447	QAP
+1448	St. Josephs's College
+1449	Herb. Shenzhen City Wuongshan Nurseries
+1450	Herbarium Shenzhen City Wuongshan Nurseries
+1451	Herb. Regional Research Lab., Jorhat
+1452	BHCH
+1453	herb. Ernest Mayer
+1454	UNL
+1455	SHO
+1456	AUU
+1457	UPTC
+1458	ENC B
+1459	CR, MO, NY, UC, US
+1460	LPB?
+1461	MO, UC
+1462	LPB?, MO
+1463	Nature Resources Institute of Heilongjiang Acad. Sci.
+1464	CLF
+1465	SJRP
+1466	KRI
+1467	TUCH
+1468	Herb. Plant Germ-Plasm Inst., Kyoto Univ.
+1469	43005
+1470	52509
+1471	LPB (LPB0000496)
+1472	UACAM
+1473	FCMEW
+1474	GAUBA
+1475	BIO
+1476	YNUH
+1477	DIVA
+1478	PAD
+1479	Research Institute of Evolutionary Biology, Tokyo
+1480	Research Institute of Evolutionary Biology, Setagaya
+1481	NWTC
+1482	LISJC
+1483	AAUF
+1484	JNU
+1485	KUPE
+1486	CS
+1487	WH
+1488	NRGH
+1489	MICCH
+1490	HIPC
+1491	IAV
+1492	BIGU
+1493	UVAL
+1494	ND
+1495	PBZT
+1496	HERB. INST. HUMBOLDT
+1497	JAUM TULV
+1498	IIZD
+1499	98775
+1500	98813
+1501	98777
+1502	UNLV
+1503	IDS
+1504	MESA
+1505	SAPS
+1506	HAMAB
+1507	QNA
+1508	Phu Ho Fruit Research Center, Vietnam
+1509	FUEL
+1510	Herb. Inst. Coreanum Plantas Investigandi
+1511	Herb. Soqotra Biodiversity Unit, Hadibu
+1512	Herb. AREA, Ministry of Agriculture, Dhamar
+1513	IZAC
+1514	HARB. RAVENNA
+1515	CTES?
+1516	Gangtok Forest Department Herbarium
+1517	Herb. Société Linnéenne de Lyon
+1518	herb. Pierre Delforge
+1519	Herb. G.Thiele
+1520	AKDU
+1521	Herb. Amarell
+1522	BBZ
+1523	Herbarium, Shenzhen City Wutongshan Nurseries
+1524	Institute of Ecology and Biological Resources, Hanoi
+1525	Herb. Shenzhen City Wutongshan Nursery
+1526	Herb., Shenzhen City Wutongshan Nurseries
+1527	GSFS
+1528	UIH
+1529	NTS
+1530	CSU
+1531	UC-R
+1532	WY
+1533	USCG
+1534	IPNA
+1535	RBGK
+1536	02504324
+1537	Cambridge University Herbarium
+1538	Nature Protection Trust of Seychelles P
+1539	WNU
+1540	RABAT
+1541	SO 100
+1542	Mahidol University
+1543	WA
+1544	UTMC
+1545	BKL
+1546	DLF
+1547	MISS
+1548	WNC
+1549	TKPM
+1550	herb. Jansen
+1551	Herb. Henker
+1552	Herb. W.Lang
+1553	HBH
+1554	Herb. Northeast Forestry Univ.
+1555	UTMC-GP
+1556	HEID Orch-960
+1557	ALU
+1558	TEXL
+1559	Hb. S. Demirel. University
+1560	Hb. Yuzuncu Yil University
+1561	Hb. S. Demirel University
+1562	Hb. GAZI
+1563	herb. L.B.Zhang
+1564	UVG
+1565	PAMG
+1566	NAC
+1567	UF
+1568	PPI
+1569	Central Drug Research Institute, Lucknow
+1570	HNR
+1571	FUS
+1572	TOCH
+1573	ANH
+1574	CFSHB
+1575	Kirstenbosch
+1576	RUSU
+1577	Herb. Sri Paramakalyani Centre for Environmental Sciences
+1578	OCA
+1579	MSKU
+1580	HUCS
+1581	Inst. Agr. do Norte, Belem
+1582	UCJ
+1583	D
+1584	DAVFP
+1585	ISIDRO PALACIOS HERB.
+1586	Herb. Dept. Biology and Chemistry, DaLi College, Yunnan
+1587	Herb. Sulekic
+1588	Dept. Botany, Kumaon University Campus, Almora
+1589	Herb. R.Viane
+1590	AJOU
+1591	FAR
+1592	SJC
+1593	FUMH
+1594	Bu-Ali-Sina University Herbarium
+1595	Herb. Ranjbar
+1596	herb. Ranjbar
+1597	JBSC
+1598	HK
+1599	CUHK
+1600	SBC
+1601	LOJ
+1602	Nature Resources Institute, Heilongjiang Acad. Sci.
+1603	UJC
+1604	ABI
+1605	Herb. Perez-Vera
+1606	GAS
+1607	43957
+1608	OKAY
+1609	HHBG
+1610	HZU
+1611	Herb. H.Königer
+1612	Herb. Kit
+1613	Herb. Tanzania Forest Conservation Group
+1614	Herb. Raja Balwant Singh College, Agra, India
+1615	Herb. Raja Balwant Singh College, Agra India
+1616	QFA
+1617	G. B. HINTON HERB.
+1618	YCP
+1619	Dept. Botany, Kalyani University, West Bengal
+1620	Dept. Botany, University of Kalyani, West Bengal
+1621	Herb. Shenzhen City Wutongshan Nurseries, China
+1622	BAAAr
+1623	Ngorongoro
+1624	BIOT
+1625	C. DEK
+1626	Herb. Inst. Ecology & Biological Resources, Hanoi
+1627	NX
+1628	NEBC
+1629	MAINE
+1630	UCZ
+1631	G-BOIS
+1632	AUK
+1633	TEPB
+1634	67267
+1635	Herb. Dept. Biology and Chemistry, Dali College, Yunnan
+1636	Herb. Jardin Botánico Octavio Velarde Nuñez, Univ. Nac. Agraria, La Molina
+1637	K?
+1638	SP?
+1639	RB?
+1640	U?
+1641	HB?
+1642	MBG
+1643	Gangtol Forest Department Herbarium
+1644	DACB
+1645	BA (= WU) (= WU)
+1646	Research Inst. Evol. Biol., Setagaya
+1647	RAF
+1648	INPA?
+1649	RUH
+1650	CNPO
+1651	FFP
+1652	UHAW
+1653	MEG
+1654	1945165
+1655	1059491
+1656	HERB. BENNETT.
+1657	BUTARE
+1658	KSU
+1659	CG
+1660	CIQR
+1661	SYSU
+1662	CCSS
+1663	MARA
+1664	BLFU
+1665	Parks Board
+1666	SBG
+1667	NO
+1668	CO
+1669	Herbario Frei Velloso, Univ. Sao Francisco
+1670	Herbarium of St. Joseph's College, Kozhikode-8, Kerala
+1671	BORH
+1672	herb. Sociedad de Ciencias Naturales de Sestao
+1673	UCA
+1674	BSB
+1675	Herb. University of Andalas, Sumatra
+1676	LP?
+1677	FRP
+1678	herb. Kit
+1679	Herb. A.Devillers
+1680	LEC
+1681	478299
+1682	460168
+1683	TMPW
+1684	TX
+1685	Georg-Augst Univ., Göttingen
+1686	Georg-Augst Univ.
+1687	YFS
+1688	HECASA
+1689	Universiti Malaysia Sabah
+1690	TRIN
+1691	Erciyes University Herbarium
+1692	FPF
+1693	Sabah Parks
+1694	Herbarium of the RILOG
+1695	Herb. RILOG
+1696	UAMI
+1697	Herb. Dept. Botany, Union Christian College, Alwaye
+1698	Coimbatore
+1699	Zurich
+1700	Herb., Dept. Botany, Union Christian College, Alwaye, Kerala
+1701	LYJB
+1702	Harold Hillier Herbarium
+1703	INIF
+1704	CZAC
+1705	AMO 13618, 13619 &
+1706	BRIST
+1707	Herb. H.Kiesewetter
+1708	Herb. H.Henker
+1709	SDCH
+1710	Herb. Akhani
+1711	GDAC
+1712	TKB
+1713	NCY
+1714	Herb. R.Jenny
+1715	UES
+1716	USEC
+1717	WSRP
+1718	Herb. H.Wittzell
+1719	G-DC
+1720	Herb. Blatt
+1721	Herb. Quest Institute of Life Sciences, Mumbai
+1722	NDG
+1723	F. IEB
+1724	CPNP
+1725	Herb. Mus. Sci. Nat. Brescia
+1726	LATV
+1727	HAJP
+1728	SHSU
+1729	Herb. Vasquez
+1730	A, BCU, L
+1731	NY, US
+1732	FRI
+1733	ICEL
+1734	TRH
+1735	UME
+1736	CEN, MO
+1737	Herb. Universiti Malaysia Sarawak
+1738	UAM
+1739	WILLI
+1740	USchoc%
+1741	NYCHOC%
+1742	'ANDA'
+1743	LPB, MO
+1744	GABAS
+1745	ITZA
+1746	BEI
+1747	Herb. Ekakarya Botanical Garden
+1748	CANB CBG
+1749	HSS
+1750	ACA
+1751	SIV
+1752	ICN, MEXU, MO, NY, WCSU
+1753	A, NY, US
+1754	JBSD, MICH, NY, S null
+1755	K-L
+1756	CDA
+1757	Demoly Herb.
+1758	KUNA
+1759	HMS
+1760	Herb. griechisch. Verein. Umweltschutz
+1761	728533
+1762	PUN
+1763	HKU
+1764	ALTA
+1765	Won Kwang Univ.
+1766	Herb. Hadjikyriakou
+1767	CSEJ
+1768	B, K, MO,NY, OSH,PTBG, US
+1769	OSH, PTBG
+1770	BISH, MO, RSA
+1771	HFB
+1772	SZWN
+1773	Herbarium , Shenzhen City Wutongshan Nurseries
+1774	SB
+1775	Dept. Conservation Regional Herbarium, Karratha
+1776	Herb. P.Spence
+1777	Herbarium of Museum Minà-Palumbo (Castelbuono)
+1778	UTEP
+1779	AAU, QCA
+1780	BRY, CAS, GH, MO, RENO, UNLV, UTC, UT
+1781	PAD HG
+1782	YU
+1783	Herb. Hort. Bot. Altaiensi
+1784	HOS
+1785	HVR
+1786	Catania?
+1787	SLL
+1788	Herbarium, Epiphytic Plant Research & Information Centre, Nijmegen
+1789	KUM
+1790	CPF
+1791	NSMC
+1792	SJCC
+1793	CPH
+1794	BLMLK
+1795	CIC
+1796	NY (2)
+1797	KNFY
+1798	SOC
+1799	Herbarium Horti Botanici Altaiensi, Ridder
+1800	06870392
+1801	Herb. Zehzad
+1802	CAR
+1803	AKU
+1804	395646
+1805	HCU
+1806	Research Inst. Evol. Biol., Tokyo
+1807	G, HUESC, MBM, MBML, MICH, NY, RB, SP
+1808	WAIT
+1809	LPB, NY
+1810	CTES, NY
+1811	CTES, US
+1812	CTES, K, LIL, MBM
+1813	CTES, K, MBM, NY
+1814	Herb. B.Girerd
+1815	Herbar Drenckhahn
+1816	Bayerische Staatssammlung
+1817	Herbar Gottschlich
+1818	HB SEL
+1819	SEL SEL
+1820	UC (81074)
+1821	EHH
+1822	Herb. Centre National de Documentation et de Recherche Scientifique de Moroni
+1823	BENIN
+1824	HSB
+1825	UTB
+1826	JVC
+1827	BR, G, K, P, TAN, WAG
+1828	Herbarium, Xichang Agricultural College, Sichuan
+1829	Herb. F.Gómiz
+1830	Herb. Whistler
+1831	Gangtok Forest Dept. Herbarium
+1832	Dept. Botany, Kasetsart University Herbarium
+1833	BHFP
+1834	HPU
+1835	USA
+1836	BRIT-SMU
+1837	MH, MO, XCH
+1838	Herb. Kürschner
+1839	Herb. Parolly
+1840	Herbarium, Dept. Biological Sciences, Leyte State University VH No.
+1841	Phu Ho Fruit Research Center Herbarium PHH No.
+1842	F, MO
+1843	BM, BSB, HUT, M, MO, NY, W
+1844	BSB, HUT, M
+1845	BSB, F, HAO, HUSA, MO
+1846	Herb. Universitas Andalas
+1847	Herb. Hillier
+1848	CAMB
+1849	SNH
+1850	KTU
+1851	WRAL
+1852	ANSM, CHAPA, CIDIR, ENCB, IEB, MEXU, UAMIZ
+1853	BASUH
+1854	RENZ
+1855	Herb. J. & P.Devillers-Terschuren
+1856	Herb. P.Delforge
+1857	Herb. H.Van Looken
+1858	Herb. J. Benito Ayuso
+1859	coll. Paulus, Biozentrum Wien
+1860	Herb. Rätzel
+1861	P, TAN
+1862	NOCC
+1863	ALCB, HRCB
+1864	Estación Cientifica San Francisco
+1865	HUT, MO, MSB, NY
+1866	SURINAM
+1867	IG
+1868	K, NY, RB
+1869	QCE
+1870	IZTA, NY
+1871	National Biodiversity Centre, Serbithang, Bhutan
+1872	AICH
+1873	Herb. Service Environnement et Foret, Mayotte
+1874	BRITI
+1875	UGA
+1876	BH, FCME
+1877	Mexu
+1878	PHN
+1879	Institute for Control of Pharmaceutical Products, Liangshan Yizu Autonomous Prefecture, Xichang, Sichuan
+1880	Mo
+1881	JBGP
+1882	NY, SPF
+1883	mbm
+1884	HB, MO, RB, UEC, US
+1885	OL
+1886	herb. H.Vannerom
+1887	Herb. Yildirimli
+1888	BOLO
+1889	KAW
+1890	BYU
+1891	HASU
+1892	KO 28
+1893	AS
+1894	Sarawak Biodiversity Centre Flora Depository
+1895	Herb. D.L. Szlachetko
+1896	Herb. Fazenda Itaibaiana
+1897	Herb.Çukurova University, Adana
+1898	A, BO, FTG, K, L
+1899	026057
+1900	026058
+1901	026065
+1902	026066
+1903	026067
+1904	026068
+1905	026069
+1906	026070
+1907	Herb. R.J.Vašut
+1908	PER
+1909	ALBA
+1910	ENCB, MEXU, NY
+1911	MO, USM, NY
+1912	ESAHE
+1913	Herb. G.B.Hinton
+1914	SPFR
+1915	Herb. Ökologiestation Kreis Unna
+1916	Herb. Bomble
+1917	herb. Espeut
+1918	Mudanjiang Forest Scientific Research Institute
+1919	FUH
+1920	HDCF
+1921	P et in spiritu
+1922	BRI [2 sheets]
+1923	BRI [1 sheet]
+1924	BRI [3 sheets + spirit]
+1925	KRSU
+1926	SAR sheet A
+1927	SAR other sheet
+1928	Kor. Pl. Res. Inst., Seoul, Korea
+1929	NY picture
+1930	UPRRP picture
+1931	US picture
+1932	HBBS
+1933	BER
+1934	AO
+1935	HA
+1936	HOXA
+1937	UP
+1938	QUSF
+1939	APP
+1940	NCSU
+1941	UEFS
+1942	CGMS
+1943	STRI
+1944	Herb. Breckle
+1945	M including flowers in the liquid collection
+1946	Herb. Alejandre
+1947	Herbarium Research Centre of Natural Resources of Tabriz
+1948	Zanjan Research Centre
+1949	CFNL
+1950	Bu-Ali SIna Univ. Herb.
+1951	Kermanshah Research Centre
+1952	Isfahan Univ. Herb.
+1953	Fars
+1954	Herb. Kriviy Rih botanical garden NAS of Ukraine (KRW)
+1955	FDG
+1956	Z-ZT
+1957	HCMC
+1958	SERO
+1959	TFRI
+1960	L spirit material only
+1961	US photo
+1962	Herb. Rav.
+1963	TN 20412, 20413,
+1964	ISTF
+1965	UBZ
+1966	SBT
+1967	Herbarium of Isfahan University
+1968	MASS
+1969	Herb. Demolyi
+1970	Herb. J.-P.Demoly n°2350
+1971	Herb. J.-P.Demoly n°905
+1972	Herb. J.-P.Demoly n°2.513
+1973	Herb. J.-P.Demoly n°2.522
+1974	Herb. J.-P.Demoly n°2.516
+1975	Herb. J.-P.Demoly n°2021
+1976	Herb. J.-P.Demoly n°1.944
+1977	Herb. J.-P.Demoly n°2.515
+1978	K alc.
+1979	C GS Spirit Collection
+1980	Herbarium Universiti Malaysia Sarawak
+1981	Herb. Shenzhen CIty Wutongshan Nurseries, China
+1982	MBM ?
+1983	P ?
+1984	Herb. Brickell
+1985	AMES [right hand specimen]
+1986	BO [fl. & tuber]
+1987	TI [fl. bud]
+1988	National University of Lao
+1989	SAUT
+1990	MO Spirit collection
+1991	PO
+1992	SLP
+1993	NMSU
+1994	Herb. Orquideario Soroa
+1995	Herbarium vasquezianum
+1996	Herb., Inmol Lab. Biotec., Kunming
+1997	IB
+1998	TGM
+1999	Sarawak Biodiversity Centre
+2000	CNH
+2001	Blatt
+2002	BCN
+2003	LECB
+2004	Toyama University
+2005	LENUD
+2006	OUFE
+2007	Herbarium of Shiraz University
+2008	BKF including dried and spirit materials
+2009	Herb. Osmangazi University
+2010	INFA
+2011	SA
+2012	ALEJAN
+2013	Shenzhen City Wutongshan Nurseries
+2014	Universiti Sains Malaysia
+2015	SANU
+2016	zea
+2017	MAYOTTE: Herbier du Service de l'Environnement et de la Forêt de Mayotte
+2018	P P00203084, alcool
+2019	XIAS
+2020	KW (ex Herb. Czerniajevii)
+2021	SESTAO
+2022	Herb.Arán
+2023	MAB
+2024	SIFS (=SAUD)
+2025	Adnan Menderes Univ. Herb., Aydın
+2026	Ministerio del Ambiente, Quito
+2027	FJFC
+2028	Hunan Province Forest Botanical Garden
+2029	Herb. Jard. Bot. Univ. Bermejillo, Durango
+2030	NWNU
+2031	Muğla University
+2032	BEREA
+2033	Shivaji University Herbarium
+2034	Herb. Mersin Univ.
+2035	AAU the brevistylous form
+2036	GJO 26.947 (flowers in ethanol)
+2037	herb. P.Delforge ana900227t
+2038	Herb. H.van Looken
+2039	herb. P.Delforge
+2040	Herb. Jean-Marc Moingeon n°SA290405
+2041	GJO 27068 (flowers in ethanol)
+2042	Herb. J.&P.Devillers-Terschuren
+2043	herb. P.Delforge ana910405b
+2044	MUKLA
+2045	Herb. Llorens-Gil
+2046	JBAG-Laínz
+2047	Herb. Sánchez Pedraja
+2048	USC
+2049	TUT
+2050	Illinois Coll. Herb.
+2051	QCNE 3 sheets: QCNE-184077 (inflorescence), QCNE-184078 (peduncle), QCNE-184079 (leaf)
+2052	QPLS
+2053	QCNE 2 sheets: QCNE-184075 (inflorescence), QCNE-184076 (leaf)
+2054	KKU
+2055	IND
+2056	GAFS
+2057	LZD
+2058	QCNE 2 sheets: QCNE-184084 (inflorescence), QCNE-184085 (leaf)
+2059	EPRIC Nijmegen
+2060	LYJB in spiritu
+2061	TOFO
+2062	Herb. G.Matzke-Hajek
+2063	herb. Žíla
+2064	TAU
+2065	NLH
+2066	GACP
+2067	Herb. Gómiz
+2068	Herbarium of Leshan Teachers College
+2069	SDNU
+2070	REG
+2071	Privatherbarium Meierott
+2072	CFCR
+2073	Herb. Gamisans
+2074	Heb. Jenny
+2075	BELEM
+2076	TAN?
+2077	herb. R.J.Vašut
+2078	PRA no. det.
+2079	herb. H.Ollgaard
+2080	PRA no.det.
+2081	BRI [2 sheets + spirit]
+2082	QRS [1 sheet + spirit]
+2083	JBL
+2084	Tarbiar Moalem Univ. Herb.
+2085	Herbarium Haldiorum
+2086	YUTO
+2087	COB
+2088	HRJ
+2089	GIS
+2090	HUFMT
+2091	NBG sheet 2
+2092	Herb. Biel
+2093	Herbarium of Mersin University
+2094	USB
+2095	AYDN
+2096	Shivaji University, Kolhapur
+2097	HNHM
+2098	HITBC 108686, female inflorescence
+2099	HITBC 108685, male inflorescence
+2100	HITBC 108687, male inflorescence
+2101	YAF
+2102	Boroujerd, Islamic Azad University herbarium
+2103	Herb. Kurdistan Research Center
+2104	MNF
+2105	UDU
+2106	HK Herb. No.
+2107	OUA
+2108	INEGI
+2109	Herb. Xichang College
+2110	UMH
+2111	Herb. Rav. et caet.
+2112	APFH
+2113	NYBG
+2114	HMC
+2115	CGE (1 plant on 4 sheets)
+2116	College of Argiculture, University of Dohuk
+2117	KHD
+2118	QSBG
+2119	ECSF
+2120	L 2 sheets
+2121	L PNH 118420, annotated vel 1
+2122	L PNH 118420, no annotation
+2123	IPUH
+2124	UPLB
+2125	HCMCM
+2126	Herb. Horti Bot. Vladivostok
+2127	University of the Philippines Los Baños
+2128	UGDA-DLSz
+2129	Herb. Haldianum
+2130	QUE
+2131	SMU-BRIT
+2132	FRLH
+2133	PERTH 3655/A (spirit collection)
+2134	Herb. Sarawak Biodiversity Centre
+2135	Herb. EPA Hadibu
+2136	Herbarium of Cyperaceae, Majalgaon College
+2137	082953
+2138	KSUH
+2139	Botany Dept., Gauhati University
+2140	Dept. Botany, Gauhati University
+2141	TUL
+2142	EMA Sichuan School of Chinese Materia Medica)
+2143	EMA (Sichuan School of Chinese Materia Medica)
+2144	CMM
+2145	1979601
+2146	CGE (1 plant on 6 sheets)
+2147	K sheet 2/3
+2148	K sheet 1/3
+2149	K sheet 3/3
+2150	Herb. FAB
+2151	Herb. Hierac. Z. Szeląg
+2152	Herb. Dunkel
+2153	Herb. Hierac. Z.Szeląg
+2154	So
+2155	BHCB fleur déshydratée et fleur en alcool
+2156	US photographs
+2157	MGM
+2158	CUFH
+2159	UNCC
+2160	Brunton Herb.
+2161	RTI
+2162	VS
+2163	MCCH
+2164	Herbarium Soroka
+2165	Herb.Yıldırımlı
+2166	ALME
+2167	CAS fruits in spirit collection
+2168	CAS flowers in spirit collection
+2169	CAS flower buds in spirit collection
+2170	University of the Philippines, Los Baños, Orchid Nursery
+2171	JAEN
+2172	P.Delforge
+2173	K Orchid Herbarium, Royal Botanic Gardens, Kew
+2174	Herb. Hort. Bot. Pisani
+2175	PAN
+2176	Herbarium of Guizhou Institute of Chinese Materia Medica = HGCM
+2177	K sheet 1
+2178	K sheet 2
+2179	NGCSU
+2180	ZH
+2181	CAL 384804 &
+2182	MOSM
+2183	Herbarium Hadjikyriakou
+2184	UAC UAC
+2185	Dept. Biology, Khon Kaen University
+2186	NYS
+2187	Herb. Miehe
+2188	INPA INPA/WWF
+2189	Herb. Chonnam Natl. Univ.
+2190	ACLB
+2191	SERBO
+2192	HUH
+2193	NHV
+2194	Herb. G. Matzke-Hajek.
+2195	Herb. G. Matzke-Hajek
+2196	L L0351551 &
+2197	A?
+2198	Museum Mauritianum Altenburg
+2199	1268895
+2200	Herb. Kordestan Province
+2201	Herb. Esfahan, Research Centre of Agricultural and Natural Resources
+2202	Herb. Shiraz, Research Centre of Agricultural and Natural Resources
+2203	AMD
+2204	JUA
+2205	Jardán Botánico Lankester
+2206	Herb. Rav. 'et caet. isotypi'
+2207	BA ex Herb. Parques Nac.
+2208	NMW V.2004.017.21
+2209	NMW V.2002.17.50
+2210	LV
+2211	KUN no.
+2212	K sheet with corollas
+2213	S with dupl.
+2214	Taraxaca Exs. no.
+2215	CFL
+2216	JBL Spirit
+2217	SMDB
+2218	NMNS
+2219	BSID
+2220	IBSC [more than one isotype at IBSC]
+2221	CAS flowers and fruits in spirit collection
+2222	P (5 duplicates)
+2223	DCH
+2224	National University of Laos Faculty of Science
+2225	National University of Laos Faculty of Forestry
+2226	Lao Forest Research Centre
+2227	ABD
+2228	Herb. State Forest Research Institute, Arunachal Pradesh
+2229	VBGI
+2230	DLSU
+2231	DLSU-D
+2232	Herb. Biol. Dept., Univ. Antananarivo
+2233	BA BA
+2234	06328385
+2235	SRGH sub Plowes
+2236	05935881
+2237	ENS
+2238	HEM
+2239	THS
+2240	Viane Herb.
+2241	Herb. Bu-Ali-Sina University
+2242	M. Ranjbar Herb.
+2243	BASU
+2244	Ghazvin Research Center Herbarium
+2245	Bu-Ali Sina University Herbarium
+2246	LZDI
+2247	MERC
+2248	Sultan Qaboos University
+2249	00539152
+2250	00539161
+2251	Herb. P.Fraga
+2252	NHU
+2253	156227
+2254	Osmangazi Univ. Herb.
+2255	DAPIF
+2256	XTBG
+2257	RANG
+2258	DIX
+2259	MAC
+2260	NFU
+2261	744367
+2262	744368
+2263	753099
+2264	ICTF
+2265	G-BOISS
+2266	Sp
+2267	KH
+2268	SCMI
+2269	07448961
+2270	UAC
+2271	SASK
+2272	868699
+2273	ESAL
+2274	Herb. Mayotte
+2275	Herb. R.Lorenz
+2276	TO
+2277	Herb. C.D.Brickell
+2278	Herb. Reduron
+2279	SING SBGO
+2280	GRH
+2281	Bartlett Arboretum Herb.
+2282	XMBG
+2283	688601
+2284	GRU
+2285	DUB
+2286	Herb. Pers
+2287	Z Herb. T. Reichstein, TR
+2288	Z Herb. T. Reichstein no.
+2289	M Herb. A. Eschelmüller
+2290	ESR
+2291	Korea Plant Research Institute, Seoul
+2292	F.
+2293	INB ex AMO
+2294	HN?
+2295	PAD HV
+2296	MSPC
+2297	VER
+2298	CANb
+2299	King Abdulaziz University Herbarium
+2300	LL/TEX
+2301	030775
+2302	030777
+2303	National University of Laos, Faculty of Science
+2304	NHC
+2305	Herb.. Haldianum
+2306	992071956
+2307	992071935
+2308	Res. Inst. Evolutionary Biol. Setagaya
+2309	Kongunadu Arts and Science College Herbarium
+2310	SZG
+2311	WHB
+2312	174118
+2313	174120
+2314	Herb. Brandstetter
+2315	Herb. Meierott
+2316	SIB
+2317	Herb. Brandstätter
+2318	NMW V.2005.1.1
+2319	Herb. Soldano
+2320	LISE
+2321	CAPHUP
+2322	Herb. Nezahat Gökyiğit Botanic Garden, İstanbul
+2323	USN
+2324	Herb. EPRIC
+2325	K-HFO
+2326	PMA?
+2327	ER
+2328	FXME
+2329	Herb. Jardin Botanico ENA, Universidad Autonoma Chapingo
+2330	IRBR
+2331	Dudley Herbarium, Stanford University
+2332	Kurdistan herbarium
+2333	CCNU
+2334	AL
+2335	TUB
+2336	PERTH 07636512 [sheet 1]
+2337	PERTH 07636504 [sheet 2]
+2338	ULS
+2339	Herb. Palmengarten Frankfurt a.M.
+2340	WRSL
+2341	Research Center of Natural Resources and Animal Affairs of Mashhad
+2342	Herb. Bu-Ali-Sina Univ.
+2343	FUHM
+2344	FB
+2345	Herb. G. & W. Thiele
+2346	Herb. C.A.J.Kreutz
+2347	Herb. R. Lorenz Lo
+2348	Herb. Thiele
+2349	Herb. Dixie State College
+2350	04872028
+2351	BSS
+2352	MONU
+2353	LEb
+2354	FNU
+2355	HUAP
+2356	Department of the Environment, Phnom Penh
+2357	Herb. Vásquez
+2358	ZPB
+2359	Jardín Botánico Lankester
+2360	HFBG
+2361	Herb. der Ökologiestation des Kreises Unna
+2362	Herb. Jansen
+2363	MNE
+2364	HUC
+2365	SARA
+2366	Herb. Schmid-Hollinger
+2367	161121
+2368	12254
+2369	476940
+2370	J.B.L. spirit
+2371	PUA
+2372	036008
+2373	036009
+2374	03610
+2375	034359
+2376	034360
+2377	034361
+2378	Herb. Uhlemann
+2379	026557
+2380	026558
+2381	026559
+2382	Herb. L.J.Margetts
+2383	Herb. K. Jung
+2384	035831
+2385	035833
+2386	Herb. H. Øllgaard
+2387	WBA
+2388	CICY [5]
+2389	p
+2390	Herbarium, National Orchid Conservation Centre, China
+2391	UNIVASF
+2392	818877
+2393	RUNYON
+2394	Herb. Res. Organ. Agric. & Nat. Resources Kerman
+2395	TAD
+2396	FAN
+2397	Herb. Univ. Antananarivo
+2398	NCAI
+2399	Collection H.B.Margońska
+2400	RJ
+2401	Herbarium, National Orchid Conservation Center of China
+2402	525768
+2403	KANP
+2404	UWSP
+2405	BNRH
+2406	OUPR
+2407	GENT - Herb. T. Reichstein
+2408	Lloyd Botanic Garden, Darjeeling
+2409	Herbário da Embrapa Clima Temperado
+2410	CNARP
+2411	GZAC
+2412	Herb. Dept. Botany, Univ. Allahabad
+2413	QUA
+2414	Herb. Hohla
+2415	Herb. Otto
+2416	CORO
+2417	Herbier de recherches de DARAINA
+2418	MEXU MO
+2419	12638
+2420	12639
+2421	NWBI
+2422	HU
+2423	ZJFC
+2424	KAG
+2425	KON
+2426	AIBO
+2427	HTC
+2428	Herb. Qingliangfeng Nature Reserve
+2429	GUBH
+2430	Herbarium of Botany Department, Gauhati University, Assam
+2431	EAH
+2432	RRLJ
+2433	UJP
+2434	1555501
+2435	1865287
+2436	1890849
+2437	1890840
+2438	262943
+2439	1774647
+2440	1774648
+2441	UNIP
+2442	32267
+2443	10188
+2444	GAM
+2445	UEL
+2446	WLU
+2447	00573831
+2448	00067127
+2449	Herb. Rita Singh
+2450	Herb. José Luís Pérez Chiscano
+2451	Herb. National Orchid Conservation Center, Shenzhen
+2452	BARO
+2453	Herb. Erciyes Univ.
+2454	DBEV
+2455	JAUM?
+2456	PORT?
+2457	Herb. McMurtry
+2458	ABRI
+2459	KR
+2460	VLAD
+2461	URP
+2462	MHES
+2463	OHT
+2464	LINN
+2465	UIS?
+2466	ACECR
+2467	TEH
+2468	Herb. Dr. B. A. Marathwada Univ.
+2469	Herb. Bozok University
+2470	Herb. Erciyes University
+2471	AAH
+2472	BKH
+2473	HNCR
+2474	UVSC
+2475	OCNE
+2476	BKK
+2477	PAU
+2478	ARAN
+2479	ALEJ
+2480	Herb. Shifman?
+2481	CNS
+2482	IRKU
+2483	Los Angeles State and County Arboretum
+2484	National University of Laos, Faculty of Science herbarium
+2485	PAUH
+2486	Ángel Andreetta Research Center on Andean Orchids, Gualaceo
+2487	Herb. Bräuchler
+2488	Herb. Xinjiang Institute of Grassland
+2489	Hn
+2490	KOBL
+2491	Herbario Eizi Matuda
+2492	HST
+2493	BZF
+2494	HTINS
+2495	937624
+2496	HPL
+2497	Fujian Daiyunshan National Nature Reserve
+2498	Forestry Bureau of Quanzhou City
+2499	USTH
+2500	Inst. Tropical Boiology, Ho Chi Minh City
+2501	ULV
+2502	Wanariset
+2503	FU
+2504	Herb. Strid
+2505	CSUF
+2506	HUAZ
+2507	Shanghai Chenshan Botanical Garden herbarium
+2508	JBAG-Lainz
+2509	UFAC
+2510	FAUC
+2511	AJZBY
+2512	H-RILOG
+2513	Herb. Silva Tarouca Res. Inst., Průhonice, Czech Republic
+2514	BSIS
+2515	SAR ?
+2516	Herb. Shiraz Univ.
+2517	Herb. Bot. Nanchang Univ.
+2518	MTMG
+2519	POZB
+2520	106548
+2521	TROY
+2522	CH
+2523	SIENA
+2524	511833
+2525	Herb. H.Akhani
+2526	Herb. H.AKhani
+2527	TTN
+2528	JBB
+2529	CIOA
+2530	Herb. J.-P. Reduron
+2531	Herb. BOZOK
+2532	Herb. ERCIYES
+2533	YM
+2534	APCR
+2535	OKLA
+2536	STAR
+2537	INH
+2538	IRK
+2539	AMAZ-F
+2540	Herb. Dept. Plant Science, Bharathidasan Univ.
+2541	PSIT
+2542	19801
+2543	19802
+2544	6290
+2545	HGI
+2546	98661013
+2547	Pennsylvania State University Herbarium
+2548	KASCH
+2549	Herb. Kongunadu Arts and Science College
+2550	Herb. B. Wynn-Jones
+2551	07190336
+2552	INU
+2553	BOZOK
+2554	ERCIYES
+2555	AURO
+2556	Herbarium of QInghai-Xizang Plateau plants, Grassland Research Institute of QInghai Academy of Animal Husbandry and Veterinary Sciences
+2557	RUPP
+2558	BIEL
+2559	Herb. Sfikas
+2560	OSBU
+2561	Yildirimli herbarium
+2562	PRe
+2563	ZAHO
+2564	Herb. Shivaji Univ.
+2565	PCH
+2566	KL BP
+2567	4369444
+2568	4319428
+2569	4369443
+2570	AIX
+2571	Herb. F. Médail
+2572	GBP
+2573	L L0196939 &
+2574	L L0180936 &
+2575	ERE (ERE
+2576	FCAB
+2577	Xiamen Botanical Garden
+2578	CEB
+2579	JCH
+2580	SEL OIC No.
+2581	IBEK
+2582	UNIMAS
+2583	HOC
+2584	Kashan Herbarium
+2585	GU
+2586	UPOS
+2587	KPM-NA
+2588	Herbarium R.Vásquez
+2589	Walailak Univ. herbarium
+2590	Bozok Univ. Herbarium
+2591	ERCIYES Hb.
+2592	COR
+2593	BJFU
+2594	MVFQ
+2595	MVJB
+2596	PAC
+2597	KB
+2598	KNU
+2599	K scan
+2600	MARS
+2601	Tex
+2602	CEFEO
+2603	BRN
+2604	RIG
+2605	MILW
+2606	UCW
+2607	NHCP-NBPGR
+2608	NBPGR
+2609	MA?
+2610	Bri
+2611	UVIGO
+2612	BOHB
+2613	PHBP
+2614	LPB (?)
+2615	NHMR
+2616	DUH
+2617	HURP
+2618	74001
+2619	IL
+2620	07478518
+2621	LWKS
+2622	Herb. M.J.College, Jalgaon
+2623	MEDA
+2624	Herb. Life Sciences School, Ningxia University
+2625	Herbarium of the Department of Plant Science, Bharathidasan University
+2626	MEL 2312606 &
+2627	MEL 2312607 &
+2628	M Go-51357
+2629	Fi
+2630	Herb. Faculty Sci. National Univ. Laos
+2631	LAE spirit collection
+2632	L spirit collection
+2633	Eskişehir Osmangazi Univ.Herb.
+2634	AAu
+2635	Herbarium of Urmieh University
+2636	00243846
+2637	00625635
+2638	00100217
+2639	00100218
+2640	00571310
+2641	00571311
+2642	Lankester Botanical Garden-Spirit collection
+2643	68996
+2644	5022325
+2645	BRI AQ532120 Sheet 2
+2646	HSU
+2647	SUNIV
+2648	MUR
+2649	EKU
+2650	ANDES
+2651	Herb. Life Sciences School of Ningxia University
+2652	125201
+2653	125207
+2654	125422
+2655	125428
+2656	126668
+2657	125395
+2658	herb FJFC
+2659	PPC
+2660	CMUH
+2661	Herbarium Ravenna
+2662	MRCH
+2663	Herbarium M.Hirth, Freiburg
+2664	Argotti Botanic Garden Herbarium, Floriana, Malta
+2665	SZB, Herbarium des Hauses der Natur
+2666	HBIL
+2667	Herb. J.&P. Devillers-Terschuren
+2668	Herb. P.Devillers & J.Devillers.-Terschuren
+2669	00614975
+2670	STEU
+2671	Bu-Ali-Sina Univ. Herbarium
+2672	Centre for Interdisciplinary Studies of Mountain and Hill Environment, University of Delhi
+2673	XIFDC
+2674	Herb. Fac. Sci. National Univ. Laos
+2675	Herb. Sulivong Luang Aphay
+2676	NY (pro parte: specimen A and material in the pocket)
+2677	Herb. John Silba
+2678	5593806
+2679	YA?
+2680	VOLG
+2681	3104185
+2682	Herb. Faculty of Forestry, Kasetsart Univ.
+2683	Herb. Thailand Natural History Museum
+2684	AJBG
+2685	SEMO
+2686	Herbarium Reservati publici Kronotskii biosphaeri
+2687	Herb. Forestry College of Fujian Agriculture and Forestry Univ.
+2688	INBIAPERU
+2689	MUFE
+2690	Herb. M. Keskin
+2691	Herb. Bijie University
+2692	CTC
+2693	LOD
+2694	PRG
+2695	LS-HAC
+2696	JPU
+2697	M Du5768
+2698	HTC=Hangzhou Normal University
+2699	H 449248,
+2700	Kermanshah Research Centre herbarium
+2701	SASY
+2702	Herb. A.Dobignard
+2703	KSAN
+2704	Institute of Science, Mumbai
+2705	ANG MBAng.2009.1
+2706	Herb. G. Delaunay
+2707	MCT
+2708	ADEN
+2709	LIMO
+2710	Herb. Bozok
+2711	Herb. Erciyes
+2712	MPUC
+2713	Herbarium of Celal Bayar University
+2714	Herbarium /the National Orchid Conservation Center of China, Shenzhen (NOCC)
+2715	NHNM
+2716	NMW V.2007.1.225
+2717	LIT
+2718	NMW V.2007.1.132
+2719	NMW V.2001.25.74a
+2720	NMW V.2007.1.130
+2721	NMW V.2002.17.161
+2722	NMW V.2002.17.150
+2723	NMW V.2007.1.127
+2724	NMW V.2004.26.276
+2725	Herb. Bruno Cornier
+2726	Herb. Pierre Lieutaghi
+2727	NMW V.2003.19.388
+2728	NMW V.2002.17.074
+2729	NMW V.1999.33.523
+2730	NMW V.2007.1.125
+2731	NMW V.2007.1.175
+2732	NMW V.2007.1.131
+2733	NMW V.2004.3.116
+2734	NMW V.2008.1.3
+2735	NMW V.2001.025.184
+2736	ANAU
+2737	CUCV
+2738	Lankester Botanic Garden, spirit
+2739	IBPGR
+2740	HOH
+2741	Jardin Botánico de Santa Cruz
+2742	NWH
+2743	BAIL
+2744	038223
+2745	K Herbarium Hookerianum
+2746	Sri Paramakalyani Centre for Environ. Sci.
+2747	Herb. J.Gómez
+2748	CMPR
+2749	NHGC
+2750	Herb. J-P. Demoly
+2751	Herb. Hillier Gardens
+2752	Herb. Budakeszi
+2753	NBU
+2754	Herb. Serbithang
+2755	Herb. Bot. Pithoragarh
+2756	PAL-Gr
+2757	Herbarium P.Delforge
+2758	Konya Eğitim Fakültesi Otluk'u
+2759	MO 5939867 &
+2760	ETSU
+2761	HITBC 126889, 126895,
+2762	FM
+2763	111109
+2764	111110
+2765	250018
+2766	250019
+2767	TUC
+2768	HECT
+2769	Jardin Botanico Herbarium, Univ. La Molina OVN/03.73.2
+2770	0872574
+2771	BUCA
+2772	FIPI
+2773	ALBION
+2774	VNM
+2775	National Univ. Laos, Faculty of Science
+2776	VDB-BRIT
+2777	KASH
+2778	ITIC
+2779	Herb. Osmangazi Univ.
+2780	HUI
+2781	VALA
+2782	DUOF
+2783	Fukui Botanical Garden
+2784	Herb. Geo. B. Hinton
+2785	Kurdistan Herbarium
+2786	Sanandaj herbarium, Research Center of Agricultural and Natural resources of Kurdistan
+2787	01105808
+2788	National Herb. Laos
+2789	National University of Laos
+2790	314C
+2791	Herb. C.Boillat in Herb. du Musée d'Histoire Naturelle de Porrentruy, Canton du Jura
+2792	herb. AREA Dhamar
+2793	MKB
+2794	Herbarium of Erciyes University
+2795	ISO
+2796	DU
+2797	herb. Lubienski
+2798	LANC
+2799	MBGS
+2800	COL 546641 &
+2801	UFRN
+2802	HUNEB
+2803	SAU
+2804	BRC
+2805	UI
+2806	USUUB
+2807	SUTH
+2808	IMC
+2809	SERG
+2810	IBUG 7323 AMO
+2811	University Museum, Tokyo University
+2812	Herb. Instituto Nacional de Investigaçao e Desenvolvimento Agrário (INIDA)
+2813	0108053
+2814	377017
+2815	PERTH 3029905, right hand specimen with flower
+2816	PERTH 3029905, left hand branches and dupl. sheet
+2817	NDA
+2818	Herb Strid
+2819	Herb. University Sains Malaysia
+2820	Univ. Sains Malaysia
+2821	HERB. Kit
+2822	HERB. Strid
+2823	JSY
+2824	ATHU
+2825	FHS
+2826	05815274
+2827	Yıldırımlı Otluk'u
+2828	VNF
+2829	Herb. Váaquezianum
+2830	Herb. G.F.Craig
+2831	HN-LN
+2832	BACP
+2833	Herb. MSSRF, Kalpetta, Wayanad
+2834	HUVA
+2835	WELC
+2836	SBXM
+2837	Manokwari Forestry Herbarium
+2838	herb. F.J.Fernández Casas
+2839	Herbier du Musée Jurassien des Sciences Naturelles de Porrentruy
+2840	MSK 115376,
+2841	Herbarium H.Königer
+2842	PAL-GR
+2843	Herb. MLV Gov Coll., Bhilwara, Rajasthan
+2844	Herb. Bionature, Bhopal
+2845	PESA
+2846	Herb. Hirth
+2847	Herb. Universitatis Creatae
+2848	In Herb. J. & P. Devillers-Terschuren
+2849	Herb. Ș.Yıldırımlı
+2850	HN in fruit
+2851	LE in flower
+2852	Herb. Ernst Gunzenhauser
+2853	WII
+2854	MO 3828511-2,
+2855	Kerman University Herbarium
+2856	M BB LE96
+2857	L on three sheets
+2858	Herb. Univ. Koblenz-Landau
+2859	NHR
+2860	Andean Orchids Research Center, Univ. Alfredo Pérez Guerrero
+2861	350402
+2862	350403
+2863	564530
+2864	LUBA
+2865	Freeport Concession Herbarium
+2866	HBG, Herb. Weber
+2867	WE
+2868	Herbarium University of Sindh
+2869	SAr
+2870	FSIV
+2871	ARIS
+2872	KRB
+2873	St Joseph College Herbarium, Devagiri, Kozhikode
+2874	CANB 326162 & 326163 (one specimen on two sheets)
+2875	CANB 260277 & 260278 one collection on two sheets
+2876	Herb. Celal Bayar University
+2877	Erciyes University
+2878	HUMC
+2879	000441243
+2880	00986637
+2881	BLH
+2882	Herb. F. Verloove
+2883	CITES
+2884	CI
+2885	Herb. Perez-Chiscano
+2886	MPH
+2887	herb. L.Meierott, Gerbrunn
+2888	HUAL
+2889	MUB-SURESTE
+2890	CAL 255172A, 255172B,
+2891	Herbarium Guiyang College of traditional Chinese medicine
+2892	NBG-STE
+2893	Konya Selçuk Üniversitesi Eğitim Fakültesi Otluk'u
+2894	Guay
+2895	TIR
+2896	private collection Kit & Shuka
+2897	ACUH
+2898	K herb. Hookerianum
+2899	K herb. Benthamianum
+2900	CLP
+2901	Herb. Research Org. Agric. Nat. Resources Kurdistan
+2902	Herb. Nauenburg
+2903	AQP
+2904	UA-MIZ
+2905	BFC
+2906	THBB
+2907	Herb. Fundación Joël Lodé
+2908	ALUH
+2909	ISL
+2910	Bozok Univ. Biology Dept. Herb.
+2911	LUCCA
+2912	774635
+2913	774636
+2914	00190378
+2915	GZTM
+2916	Herb. Res. Inst. For. & Rangelands Khorasan
+2917	UFMG
+2918	KFTA
+2919	Selçuk University, Herbarium of Education Faculty
+2920	PTBG 041866,
+2921	Herb. L.Sáez
+2922	BCB
+2923	Çukurova Univ. Herb.
+2924	PERTH 06708196 (sheet1), 06708218 (sheet 2)
+2925	PERTH 07957408 (sheet1) & 07957718 (sheet 2)
+2926	CORU
+2927	RRLH
+2928	L 276819, 276822, 276828, 276830, 276831, 276848,
+2929	LYD
+2930	MR
+2931	00731227
+2932	IAUH
+2933	Herbarium of the Islamic Azad Univ., North Tehran Branch
+2934	HUESB
+2935	NMW V.2010.1.1
+2936	LJS
+2937	K Kew Spirit Collection no.
+2938	Forest Science Institute of Vietnam
+2939	JEF
+2940	CETEC
+2941	HXCH
+2942	Herb. J.Zambrano
+2943	Herb. Zenner
+2944	Herb. C.Stark
+2945	PTBG 041629,
+2946	PTBG 038471, 038472, 038473,
+2947	Herb. Freeport
+2948	CJBG
+2949	GNUG
+2950	Herb. Societatis Lugdunumensis
+2951	DEV
+2952	745594
+2953	Herb. Bhawabhuti college, Amgaon.
+2954	MAO
+2955	00749852
+2956	108482
+2957	Herb. Agric. Nat. Res. Center Khuzestan
+2958	EBH
+2959	BRI 654615 (2 sheets)
+2960	S Ekman H
+2961	Herb. Shuka
+2962	IUI
+2963	IRFR
+2964	NAP-GUSS
+2965	IZEF
+2966	CPC
+2967	Herb. G.Gottschlich
+2968	26172
+2969	26177
+2970	26178
+2971	NMW V.2010.1.213
+2972	IbF
+2973	FAB
+2974	Herbarium, Faculty of Agro Industry and Natural Resources, Universiti Malaysia Kelantan
+2975	FI-B
+2976	FI-PS
+2977	Community Herb., Scarascia Magnozza Genetic Resource Centre, MSSRF, Chennai
+2978	Herb. M. S. Swaminathan Res. Foundat., Kalpetta
+2979	MSSH
+2980	FLD
+2981	UBA
+2982	CHIA
+2983	COM
+2984	Herb. of Shahid Bahonar University of Kerman
+2985	BO preserved in 50% ethanol
+2986	Herbarium of Caucasus State Nature Reserve
+2987	GUL
+2988	Palaeobiology Group, Agharkar Research Institute, Pune, India (pollen repository of MACSG)
+2989	Herbarium of the Andean Orchid Research Center, University Alfredo Pérez Guerrero
+2990	RUB
+2991	UGDA-HBM
+2992	L carp.
+2993	ATREE
+2994	UNR
+2995	Vale District BLM
+2996	ECOSUR
+2997	Herb. Speta
+2998	Herb. Ningxia Agric. Environ. Monit. Sta.
+2999	K spirit material only
+3000	ASE
+3001	E E00107717 & E00107665 (two sheets)
+3002	6241529
+3003	Herb. Bozok Univ.
+3004	Jarvis College, Hawkins, Texas
+3005	HHAP
+3006	Herbarium School of enviromental Sciences, Mahatma Gandhi University, Kottayam, Kerala
+3007	Herb. Suan Luang Rama IX
+3008	IFRD
+3009	SAN SAN
+3010	CHR 610435, 610436,
+3011	Herb. Lloret
+3012	ESG: HUELVA (author's pers. herb.)
+3013	HUEFS [159531]
+3014	CEPEC [18495]
+3015	CEPEC [65024]
+3016	HUEFS [152429]
+3017	ALCB [39384]
+3018	Herb. J.Benito Ayuso
+3019	NHMC
+3020	Herb. Jean-Marc Moingeon
+3021	Herbarium René Gämperle
+3022	UTV
+3023	Herb. Asaf Shifman
+3024	PAMUH
+3025	LUB
+3026	University of Laos Herbarium
+3027	HEPH
+3028	00624068
+3029	00624069
+3030	ERE 129604,
+3031	HERBAM
+3032	LPD
+3033	VSU
+3034	VDB (BRIT)
+3035	MGML
+3036	CAME
+3037	APSC
+3038	Herb. Pei-Shan Wang
+3039	PTBG 044161,044162,
+3040	04916435
+3041	PTBG 038520, 038521, 038522, 038523,
+3042	GAP
+3043	16391
+3044	KUZ
+3045	ZT 156/1658-9,
+3046	3640192
+3047	00722274
+3048	Herbarium Weber
+3049	BHO
+3050	Herbarium of the Faculty of Education, Selçuk Univ.
+3051	SDNH
+3052	TAIE
+3053	Herb. S.Baumann
+3054	Bozok Univ. Biol. Dept. Herbarium
+3055	MADM
+3056	MADS
+3057	RILOG
+3058	UNELLEZ
+3059	Herb. Stip. M. Nobis
+3060	BM left hand specimen
+3061	LE left-hand plant only
+3062	BM 000040917 (left-hand plant only)
+3063	UG DA-DLSz
+3064	UFA
+3065	Herb. Laboratorio de Ecología Vegetal del Departamento de Botánica de la Universidad de Valencia
+3066	TSN
+3067	Herb. National University of Tainan
+3068	In Herbario Hintoni
+3069	FURB
+3070	K spirit material
+3071	SURCO
+3072	TRA
+3073	RERTH
+3074	Herbarium of Daraina
+3075	BERG
+3076	Herbarium of Nowshahr Botanical Garden
+3077	BAMU
+3078	NLS
+3079	Central Mindanao University Herbarium
+3080	HUAM
+3081	MSNM
+3082	29517
+3083	TNS 738743, 738746,
+3084	CHIS
+3085	Herbário da Embrapa Clima Temperado, Pelotas, RS, Brasil
+3086	NGBB
+3087	Ernst Schmidt Herbarium
+3088	CPC Herbarium
+3089	Hb. Akhani
+3090	TMRC
+3091	Herb. Centro de Pesquisas do Cacau
+3092	MADw
+3093	HIFP
+3094	ANKO
+3095	DRLT (unregistered herbarium acronym)
+3096	TCGRI
+3097	field herbarium of Daraina
+3098	COFC
+3099	Akdeniz Univ. Herb.
+3100	KH, Korea National Arboretum
+3101	K sheet II
+3102	K sheet I
+3103	HUPG
+3104	SFPR
+3105	Herb. Geo.B.Hinton
+3106	HMN
+3107	Herbarium S. Jessen
+3108	BCSIRH
+3109	HUTO
+3110	Herb. Orchid, Tippi
+3111	Herb. Forest Science Institute of Vietnam
+3112	Herb. Cau Hai Silvicultural Research & Experimental Centre
+3113	FSIV-CH
+3114	Xal.
+3115	Herb. Bali Bot. Gard.
+3116	KRIB
+3117	VNMN
+3118	OMUB
+3119	WIND (lost)
+3120	BJ
+3121	Herb. Pei-Shan Wang (Guizhou Institute of Biology)
+3122	MO n
+3123	CSAU
+3124	K upper left fragment
+3125	LIST
+3126	IEA
+3127	FBC
+3128	HNG
+3129	IZTA (the entire plant deposited in alcohol)
+3130	MEL 3 sheets(117392,
+3131	UFRPE
+3132	Herb. Forest Science Institute of Vietnam, Hanoi
+3133	Selçuk Üniv. Eğitim Fak. Herb.
+3134	IBSC 0759345,
+3135	HNEFU
+3136	Herb. Inst. Chinese Materia Medica, Shanghai University of TCM
+3137	CWC
+3138	Isabela State University
+3139	Bozok Univ. Herb.
+3140	Bozok Univ. Biology Dept. Herbarium
+3141	FUK
+3142	VAB (VAB
+3143	BOKR
+3144	Herb. Universiti Malaysia Kelantan
+3145	THBB [alcohol preserved]
+3146	BFK
+3147	TURX
+3148	SP on 4 sheets
+3149	B on 3 sheets
+3150	FI on 2 sheets
+3151	G on 3 sheets
+3152	K on 3 sheets
+3153	NY on 4 sheets
+3154	P on 3 sheets
+3155	PRC on 3 sheets
+3156	RB on 3 sheets
+3157	VIC on 3 sheets
+3158	SP on 3 sheets
+3159	NY on 2 sheets
+3160	P on 2 sheets
+3161	RB on 2 sheets
+3162	SP on 2 sheets
+3163	UASB
+3164	MSS
+3165	G00330211
+3166	P 00750254, 00750251, 00750252 &
+3167	ZAFC
+3168	Herb. Paradis
+3169	IAUM
+3170	KRIBI
+3171	National History Museum of Jilin
+3172	MSSRF Herbarium, Kalpetta, Wayanad
+3173	Center for Plant Conservation Herbarium
+3174	CDCM
+3175	NIBR
+3176	LE-TRINIUS
+3177	HTO
+3178	Herb. MSSRF, Community Agrobiodiversity Centre, Wayanad, Kerala
+3179	Herbarium of Biology, Dept of Bozok Univ.
+3180	Herbarium of Biology, Dept of Erciyes Univ.
+3181	6240502
+3182	CURLA
+3183	MANCH EM552
+3184	LE (two isotypes)
+3185	Herb. Forest Sci. Inst. Vietnam
+3186	Herbarium of Alzahra University
+3187	362767
+3188	6327520
+3189	SEl
+3190	JBL in spirit
+3191	Herb. J. and P. Devillers-Terschuren
+3192	Herb. M.Hirth
+3193	BBB
+3194	FH
+3195	VTN
+3196	110153
+3197	26597
+3198	WYAC
+3199	LL-TEX
+3200	BUH
+3201	SAUF
+3202	ME
+3203	WB
+3204	25698
+3205	WAM
+3206	26074
+3207	31980
+3208	CUHF
+3209	GF
+3210	HTU
+3211	Centro de Estudios Andayu S.C.
+3212	Herbario de la Esc. De Biología, Rubiaceae, Flora de Tabasco
+3213	712924
+3214	712926
+3215	712927
+3216	712903-712906
+3217	0487982
+3218	0495765-0495767
+3219	712908
+3220	712910
+3221	231653
+3222	321473
+3223	436329
+3224	436603
+3225	712917-712919
+3226	Sree Krishna College Herbarium
+3227	Sree Narayana College Herbarium
+3228	G.B.Pant University Herbarium
+3229	Herb. Hadjikyriakou).
+3230	Karadeniz Technical Univ. Herb.
+3231	Rize Univ. Herb.
+3232	674486
+3233	LTU
+3234	RSPF
+3235	VDB/BRIT
+3236	110855/b
+3237	110508/b
+3238	ROZ
+3239	110508/d
+3240	BAH
+3241	CPNP 09334, 09309, 09310 &
+3242	Herb. Urmieh University
+3243	MEL 2096101 (spirit)
+3244	MEL 2265104 (spirit)
+3245	Herb. B. Yıldız
+3246	TEHF
+3247	WU 9965 &
+3248	CAHP
+3249	WGRZ
+3250	AGUCH
+3251	Herb. L. Shuka
+3252	EIU
+3253	Herb. School Forest., Kepong, Malaysia
+3254	TFMC/PV
+3255	Herb. Flores & Watson
+3256	T
+3257	Herb. Univ. Isfahan
+3258	NHCP
+3259	826816
+3260	977897
+3261	HYU
+3262	Herb. Centre Medic. Pl. Res., Kottakkal
+3263	P P00256463, P00354135,
+3264	International Center for Tropical Agriculture, Cali, Colombia
+3265	MEXu
+3266	ORUM
+3267	HKS
+3268	NLUH
+3269	Herb. Bot. Dept. Agron. Super. Natl. School, ENSA, El Harrach
+3270	MEXU-Tuxtlas
+3271	SGN
+3272	CMS College, Kerala
+3273	Herb. Center Plant Conservation, Hanoi
+3274	PETH
+3275	FHU
+3276	CHRIS-PP
+3277	MSUT
+3278	RSA-POM
+3279	00835435
+3280	00835436
+3281	00835615
+3282	00835614
+3283	UCH
+3284	K,
+3285	BIN
+3286	Sre Ganesan Herbarium (Madura Colleg)
+3287	VFM
+3288	Herb. Myanmar Floriculturist Association
+3289	ECUAMZ
+3290	HUFSJ
+3291	CHIS-PP
+3292	MRSN
+3293	Yıldırımlı Herbarium
+3294	Herb. Giannopoulos
+3295	BRU
+3296	GSMNP
+3297	SCAR
+3298	DBG
+3299	CHAM
+3300	SKC
+3301	VAFS
+3302	Vietnam Nat. Mus. of Nature
+3303	HIKK 1316 HN
+3304	ERE 176811, 176814,
+3305	MKUH
+3306	IBSD
+3307	CBPF
+3308	Herb. Lab. Fac. Pharm. Phnom Penh
+3309	SNG
+3310	Herb. T.P.Osilia
+3311	UM
+3312	Herb. Forest Sci. Inst. Vietnam CH
+3313	Herb. Vietnam. Acad. Forest Sci.
+3314	Herb. Forest Sci. Centre Centr. N. Vietnam, Vietnam. Acad. Forest Sci.
+3315	Herb. Xiamen Bot. Gard.
+3316	Cau Hai Silvicult. Res. Exp. Centre of FSIV
+3317	CORD 00006744 &
+3318	Herb. Bingöl Univ.
+3319	Herb. Mustafa Kemal Univ.
+3320	Herb. Opole Univ.
+3321	Res. Herb. Daraina
+3322	Herb. Hunan Food Drug Vocational Coll.
+3323	Herb. Dept. Bot. Mangalore Univ.
+3324	TGU
+3325	EAC 19335B, RB
+3326	MAU 0010961 &
+3327	SXAU
+3328	SUFA
+3329	GBH
+3330	Bozok Univ. Biol. Dept Herb.
+3331	114673
+3332	Herb. Bozok Univ. Biol. Dept.
+3333	TAUF
+3334	Herb. Gianguzzi (Dept. of Scienze Agrarie e Forestali, Palermo)
+3335	Herb. D.J.McCosh
+3336	VAL 210
+3337	MKCH
+3338	L [Herb. Siebold (L
+3339	Herb. CMS college Kottayam
+3340	MNR
+3341	Community Agrobiodiversity Centre herbarium
+3342	Swaminathan Research Foundation herbarium
+3343	Hb. Arán
+3344	BRIP
+3345	LSCR
+3346	Huaihua University
+3347	MB
+3348	HLDG
+3349	DIAM
+3350	Erciyes Univ. Herb.
+3351	GMDRC
+3352	USR
+3353	BRUN 004
+3354	Herb. Fern. Casas
+3355	Falkland Islands National Herbarium
+3356	HUESBVC
+3357	PUC
+3358	PATR
+3359	ACG
+3360	Herb. J. & P.Devillers-Tersch.
+3361	herb. Global University Lebanon
+3362	herb. Lebanese University
+3363	Herb. J. & P.Devill.-Tersch
+3364	LU
+3365	FHUM
+3366	MH 320 A
+3367	ERE 187572,
+3368	NCP
+3369	GC
+3370	0070691
+3371	Herb. Navajo Nation
+3372	00078288
+3373	GDFI
+3374	CERNAR
+3375	MUC
+3376	IFG
+3377	UPBC
+3378	5682089
+3379	NTBG
+3380	Herb. Museo di Storia Naturale dell' Insubria, Clivio
+3381	Herbarium of NE Regional institute of Science & Technology, Nirjuli
+3382	K excluding the specimen 'Hantani'
+3383	MSSRF
+3384	SNCH
+3385	UAGC
+3386	IUG
+3387	TNS 1025460,
+3388	ANHC
+3389	UMO
+3390	Herb. Amazonia Meridional, Mato Grosso
+3391	Herb. Selçuk Univ. (Faculty Education)
+3392	MKU
+3393	Herb. National Univ. Tainan
+3394	29919
+3395	29970
+3396	CAbC-MSSRF Herbarium, Wayanad
+3397	SIMF
+3398	UAM-I
+3399	XAl
+3400	XOLO
+3401	Herb. H. Akhani
+3402	HUESC
+3403	UFACPZ
+3404	HØ
+3405	NMW V.2012.4.132
+3406	Herb. Tórshavn Nat. Hist. Mus.
+3407	JR
+3408	HSNU
+3409	Herb. Allhabad
+3410	Herb. Madras Christian College
+3411	Tambaram, Chennai and Sri Paramakalyani Centre for Environmental Sciences Herb., Alwarkurichi
+3412	CELEMS
+3413	K-W
+3414	Herb. Daraina
+3415	TFMC PV
+3416	Herb. CEDREM
+3417	Herb. Watson & Flores
+3418	Herb. Inst. Bioresources and Sustainable Development, Imphal
+3419	08520445
+3420	PERTH 08552304 &
+3421	DLU
+3422	GEN
+3423	B B 10
+3424	Herbarium of the University of Isfahan
+3425	MANO
+3426	ACM
+3427	HFLA
+3428	PDN
+3429	ITCV
+3430	TAMUX
+3431	P P-02432630,
+3432	SEY P-02432630,
+3433	Herbarium of the Universidade Estadual do Oeste do Paraná, Brazil
+3434	UNOP
+3435	ANI
+3436	HN 00000
+3437	CSH
+3438	Herb. Center Pl. Conserv., Hanoi
+3439	Herbarium, University of Isfahan
+3440	MO 3238710,
+3441	Herbário da Embrapa Clima Temperado, Pelotas, RS
+3442	Daraina
+3443	Herb. Mahidol Univ. (Kanchanaburi campus)
+3444	SNG BD625,
+3445	E BD624, BD627,
+3446	SING [including flowers and fruits in spirit]
+3447	SGN BGM1595, BGM1596, BGM1597, BGM1598,
+3448	E BGM1599, BGM1601,
+3449	455658
+3450	455659
+3451	NHM
+3452	PERTH 08336474 &
+3453	USMS
+3454	ZAGR
+3455	XSNP
+3456	ECWP
+3457	Herb. Akdeniz Univ.
+3458	Herbarium, University of Kerala
+3459	kubh
+3460	Herb. Strid.
+3461	SBUSH
+3462	MPIH
+3463	00751711
+3464	00751712
+3465	007517114
+3466	Herb. Shahid-Bahonar Univ. Kerman
+3467	Herb. Pha Tad Ke Bot. Gard.
+3468	NUOL
+3469	NHOL
+3470	Herb. Forest Sci. Centre Centr. N. Vietnam
+3471	FACEN
+3472	Herb. Islamic Azad Univ., Jahrom
+3473	Herb. Centre Natl. Applic. Rech. Pharm.
+3474	LWI
+3475	Herb. Lowrie
+3476	OH
+3477	Herb. D. FELIX, Marktredwitz
+3478	Herb. D. FELIX Marktredwitz
+3479	Herb.D.FELIX, Marktredwitz
+3480	HURG
+3481	FCB
+3482	HBJN
+3483	TOSEHIM
+3484	Herb. P. Danton
+3485	Herb. SNM College, Maliankara, Ernakulam
+3486	BS
+3487	CEBU
+3488	SANT 50009 specimen on the top left
+3489	SANT 50009 remaining specimen
+3490	herb. Karl
+3491	Herbarium of the Center for Plant Conservation, Hanoi
+3492	MAD
+3493	JCB
+3494	AMES [flower in spirit]
+3495	VEN [dry flowers]
+3496	KFBG
+3497	CUH
+3498	Herb. Sanchez Pedraja
+3499	FAFU
+3500	PERTH two sheets:08414645, 08414645, belong to the same specimen
+3501	149115
+3502	149116
+3503	149117
+3504	2006-0005939
+3505	Tunceli University
+3506	W 2013-0006270 &
+3507	FRIM
+3508	TI MH
+3509	CICY 2 sheets
+3510	Herb. Madura College
+3511	Herb. Brandstatter
+3512	Hb. Gottschlich
+3513	UPF
+3514	Herb. Khartoum Univ.
+3515	HUST
+3516	University of Carthage, Faculty of Sciences, Bizerte
+3517	Herb. Sheader
+3518	BCRU
+3519	BHSC
+3520	AK 288088, 288171,
+3521	Herb. Majalgaon Coll.
+3522	CORD 00006797 &
+3523	CORD 0000676,00006770,
+3524	JBL (in Spirit)
+3525	LISI LISI -1595/2013
+3526	PHEO
+3527	UC-JEPS
+3528	UMA
+3529	MIRR
+3530	Herb. Vietnamese Acad. For. Sci.
+3531	Herb. Dalat Univ.
+3532	UNAS
+3533	UPAO
+3534	Geo. B. Hinton Herb.
+3535	HURB
+3536	QCA?
+3537	LIB
+3538	HUA 142183[basal portion] + 142184 [a distal portion]
+3539	CMUB
+3540	ALBC
+3541	Herb. Bhawabhuti Coll.
+3542	herb. Fern.Casas
+3543	OC
+3544	MMMN
+3545	Institute of Bioresources and Sustainable Development, Imphal
+3546	Herb. Centre Orchid Gene Conservation E. Himalayan Region
+3547	Herb. Centre Orchid Gene Conservation E. Himalyan Region
+3548	Herb. Tarbiat Modares Univ.
+3549	HSBU
+3550	UFBA
+3551	BI
+3552	herb. L. BENNERY (sub nOHO-0007-13)
+3553	ARG
+3554	0200290
+3555	KTC
+3556	FLA
+3557	BKF [Note: holotype has since been destroyed]
+3558	Universidade da Madeira
+3559	JXAU
+3560	Herb. Esc. Super. Agric. Hermanos Escobar
+3561	KEW
+3562	BSHC BSK
+3563	HAJB–PFC
+3564	HFA
+3565	JABU
+3566	Herb. Center Plant Conservation
+3567	BRBA
+3568	051336
+3569	04795710
+3570	NOU 030922,
+3571	NOU 033929,
+3572	P 2 sheets P-02432635,
+3573	SEY 2 sheets
+3574	Mindanao State University - Iligan Institute of Technology
+3575	M Du-23281
+3576	M Du-23324
+3577	M Du-23225
+3578	M Du-25665
+3579	M Du-27424
+3580	M Du-27425
+3581	M Du-27463
+3582	M Du-27456
+3583	M Du-25548
+3584	M Du-23329
+3585	Herbarium of Akdeniz University
+3586	BSI-SHC
+3587	Herb. St. Joseph's College
+3588	CAL 23463 B & C
+3589	DPUH
+3590	LBW
+3591	Herb. Center Pl. Conserv.
+3592	CATH
+3593	NHN
+3594	HIBG
+3595	SNMS
+3596	MA 858787,
+3597	WELT-SP
+3598	JBDS
+3599	Herb. Cayetano Heredia Peruvian Univ.
+3600	5994645
+3601	33997
+3602	RB RB–00413518
+3603	NMW V.2013.1.185
+3604	NMW V.2013.1.183
+3605	NMW V.2013.1.182
+3606	Herb. Hammel
+3607	NMW V.2013.1.186
+3608	BRISTM
+3609	WSY (WSY0047333)
+3610	NMW V.2001.25.309
+3611	NMW V.2013.1.184
+3612	SNUA
+3613	KUBH
+3614	NBYC
+3615	PERTH 08526273 & 08526281, belong to the same specimen
+3616	TBGRI
+3617	L 2444, no. det.
+3618	L 2458, no. det.
+3619	L 2475, no. det.
+3620	L 2499, no. det.
+3621	L 2611, no. det.
+3622	L 2634, no. det.
+3623	37002-37003
+3624	L [herb. vS 40355], no. det.
+3625	L 2694, no. det.
+3626	LWG [herb. vS 41767] (no. det.
+3627	L 2715 [herb. vS 42512], no. det.
+3628	L [herb. vS 40820] (no. det.
+3629	AMNH
+3630	CABNB
+3631	UAMIZ (x4)
+3632	IEB (x3)
+3633	Herb. Center Plant Conserv. Hanoi
+3634	UCSC
+3635	SPF 2 sheets
+3636	BSI, Pune
+3637	Herb. Suriana Bot. Conserv. Gard.
+3638	HERZ
+3639	AZB AZB2313 [AI-MAAG-003]
+3640	AZB AZB2314 [AI-MAAG-004], AZB2315 [AI-MAAG-005], AZB2316 [AIMAAG-
+3641	BM AZB2317 [AI-MAAG-007]
+3642	NNSU
+3643	Herb. Univ. Jordan
+3644	Herb. Negaresh
+3645	QBG (Spirit collection)
+3646	ISA
+3647	3670530
+3648	3670556
+3649	4369938
+3650	4369939
+3651	LE LE
+3652	NTU
+3653	Herbarium of Hon Ba Nature Reserve
+3654	MOSS
+3655	PAL-Greuter
+3656	Herb. Forest Admin. Cambodia
+3657	HUPCH
+3658	SESH
+3659	Herb. Embrapa Clima Temperado
+3660	450
+3661	ma
+3662	FHO Brahms specimen ID:
+3663	QTPMB
+3664	Herb. Qinghai-Tibetan Plateau Mus. Biol.
+3665	Herb. Qinghai-Tibetan Plateau Mus. of Biology
+3666	Herb. Qinghai-Tibetan Plateau Mus. BIol.
+3667	0210903
+3668	0210904
+3669	0202907
+3670	PBB
+3671	Herbarium Bali Botanic Garden
+3672	Herb. Bali. Bot. Gard.
+3673	HAOC
+3674	NAKU
+3675	NAU
+3676	CR-
+3677	F!
+3678	INB!
+3679	MO!
+3680	MO-
+3681	NY!
+3682	B 10
+3683	Herb. Dept. Bozok Univ.
+3684	PERTH 08635056 (sheet1 of two)
+3685	08635137 (shhet 2 of two)
+3686	Herb. Soroa Orchid Garden
+3687	Herbarium of Tay Nguyen Institute of Scientific Research of Vietnamese Academy of Science and Technology
+3688	Herb. Dept. Bot. Ecol. Natl. Univ. Vietnam Ho Chi Minh City
+3689	LWU
+3690	Herbarium of Anhui Academy of Forestry
+3691	LISC 2 parts
+3692	CECV
+3693	0001409
+3694	Herb. Kuban State Univ.
+3695	INU 12528-
+3696	05311856
+3697	00172784
+3698	PERTH 01121332 &
+3699	ISTE ISTE
+3700	102727
+3701	FUMN
+3702	Herb. Akdeniz University
+3703	TNS 01240139, 01240141-01240143,
+3704	04570992
+3705	5687885
+3706	HHU
+3707	HCI
+3708	PHH
+3709	Center for Plant Conservation, Hanoi
+3710	Balıkesir Univ. Herb.
+3711	UADY
+3712	AJBC
+3713	DNA (2 sheets and spirit)
+3714	NGCPR
+3715	Goa Univ. Herb.
+3716	Compton Herbarium, Cape Town South Africa
+3717	Compton Herbarium, Cape Town
+3718	HSP
+3719	UZL
+3720	UGDA–HBM
+3721	ISTF ISTF
+3722	EGE EGE
+3723	BEO (flor.)
+3724	00541644
+3725	KRSU №
+3726	TK 4/472
+3727	BIZ
+3728	Herb. Univ. Bizerta
+3729	ZY
+3730	HSMC
+3731	Herb. T. Reichstein
+3732	?Z
+3733	?GENT
+3734	Herb. Shaoyang Univ., Hunan
+3735	BJM
+3736	HEPLAME
+3737	RON
+3738	KSP
+3739	000045
+3740	000008
+3741	Herb. G. Hadjikyriakou
+3742	ROST
+3743	EW
+3744	JIU
+3745	TAJ
+3746	THNHM
+3747	mo
+3748	usm
+3749	Herb. Iran Kurdistan
+3750	PVB
+3751	NU spirit
+3752	OLD
+3753	0090698
+3754	000745994
+3755	000745995
+3756	0070218
+3757	0070219
+3758	0070307
+3759	0070308
+3760	BUC
+3761	0164299
+3762	0164247
+3763	0164248
+3764	0102197
+3765	0102198
+3766	0102199
+3767	0102200
+3768	ALF
+3769	BRVU
+3770	BNU 6 sheets
+3771	Herb. Hon Ba Nature Reserve
+3772	2299595
+3773	JUAM 2 sheets
+3774	U 2 sheets
+3775	NY 2 sheets
+3776	HUA 2 sheets
+3777	US US
+3778	FEUH
+3779	SIU
+3780	WCUH
+3781	Herb. Alejandre 625/
+3782	Herb. Fco. Gómiz
+3783	41877
+3784	JOI
+3785	B-C
+3786	B 20
+3787	Gandhigram University Herbarium
+3788	NHL
+3789	Pha Tad Ke Botanical Garden Herbarium
+3790	Pha Tad Ke Botanical Garden Hebarium
+3791	D.F. Brunton Herb.
+3792	00722578
+3793	CNDRS
+3794	00722592
+3795	Suriana Herb. MPSU
+3796	ZMNH
+3797	HBGH
+3798	Cam
+3799	KYP
+3800	Herb. Sta. Hon Ba Nat. Reserve
+3801	MA MA719016 b-e
+3802	AZB
+3803	PERTH PERTH
+3804	JAZUH
+3805	MUZ
+3806	UWAL
+3807	Herb. Tay Nguyen Inst. Sci. Res.
+3808	HAJB-G
+3809	Herbarium of Holguín Botanical Garden
+3810	Herb. Yıldırımlı otluk'u
+3811	PRE PRE0048784 (sheet II)
+3812	PRE PRE0048784 (sheet I)
+3813	NBG NBG88386 (sheet I)
+3814	NBG NBG88386 (sheet II)
+3815	LVB
+3816	000260885
+3817	0121346
+3818	Herb. Kribi
+3819	Herb. Holguín Bot. Gard.
+3820	UFRR
+3821	FLAS 2 sheets
+3822	VFWO
+3823	Suan Luang Rama IX
+3824	Jaen
+3825	PERTH (spirit)
+3826	TAB
+3827	MPU RS.2015.500
+3828	FI RS.2014.500
+3829	MPU RS.2013.404
+3830	MPU RS.2015.403
+3831	MPU RS.2013.403
+3832	MPU RS.2013.402
+3833	AIX upper right flower
+3834	AIX same sheet, all other flowers
+3835	MPU RS.2015.501
+3836	MPU RS.2015.411
+3837	0319927
+3838	0319847
+3839	Herb. Agric. Nat. Resources Res. Centre Guilan
+3840	WK 1035/1 in LPB
+3841	WK 1035/2 in WU
+3842	BRNM 760
+3843	SN
+3844	HUTI
+3845	Herb. Umatilla Natl. Forest. Pendleton. Oregon
+3846	HEM 21837 (3 specimens)
+3847	FO Lo
+3848	Herb. P.Danton
+3849	HVASF
+3850	BKF SN
+3851	PERTH 08614539 flowering specimen
+3852	SP 465171(barcode
+3853	CNS QRS 111169.1 & QRS
+3854	126446
+3855	126724
+3856	RPSC right hand specimen
+3857	HCDAL
+3858	IBGE 38489- image
+3859	NOU 019003,
+3860	UASD
+3861	GDA GDA
+3862	GDA GDA 61387, GDA
+3863	FCO FCO
+3864	Herb.Dunkel
+3865	PEY
+3866	P 00573464 &
+3867	BP 732260-732261 (parts of the same specimen)
+3868	GJO 732260-732261 (parts of the same specimen)
+3869	Herb. Yıldırımlı Otluk'u
+3870	P 607451 &
+3871	PYI
+3872	PM
+3873	BOZ
+3874	LEC LEC ORCH
+3875	Sari Payame Noor Univ.
+3876	HUFABC
+3877	HZU HZU60089574,
+3878	019062
+3879	GHMDD
+3880	JNTBGRI
+3881	019057
+3882	SACONH [no.
+3883	SACONH [nos.
+3884	KO 31
+3885	0334357 (2 sheets)
+3886	JBL spirit,
+3887	Herb. Res. Inst. Landscape & Ornam. Gard.
+3888	HUFAC
+3889	08024588
+3890	B image 10
+3891	BRI AQ
+3892	PG
+3893	UPA-Herb. Phitos & Kamari
+3894	Herb. Øllgaard
+3895	Herb. H.Øllgaard
+3896	Herb. Tórshavn
+3897	FCM
+3898	FCSS
+3899	CN
+3900	GD
+3901	Herb. E.Wessberg
+3902	KAUH
+3903	MA MA
+3904	UAMIZ (11 sheets)
+3905	HUMO (4 sheets)
+3906	IEB (8 sheets)
+3907	MEXU (5 sheets)
+3908	1791855
+3909	Herb. J. Gómez
+3910	L.
+3911	Herb. Fac. Nat. Sci. Univ. Prishtina
+3912	(IBIW
+3913	PERT
+3914	STNF
+3915	42088
+3916	30910
+3917	06692170
+3918	06601013
+3919	0011491
+3920	Е
+3921	Herb. Yıldırımlı,
+3922	MSNM (6 sheets)
+3923	FI (4 sheets)
+3924	MSNM 4 sheets
+3925	FI 2 sheets
+3926	SING (inclusive spirit)
+3927	VNMN (incl. spirit)
+3928	SING (incl. spirit)
+3929	Hòn Bà Nature Reserve herbarium
+3930	E incl. spirit
+3931	Hòn Bà Nature Reserve
+3932	Nezahat Gökyiğit Bot. Bahçesi Otluk'u
+3933	hCBNMC
+3934	hSBA
+3935	UUDE
+3936	08730156
+3937	1369953
+3938	GLM
+3939	KNH
+3940	priv. herb. R. Otto
+3941	Biology Herbarium, National University of Laos
+3942	SING SING0166277 including spirit material,
+3943	PCE
+3944	Bingöl Univ. Herb.
+3945	Mustafa Kemal Univ. Herb.
+3946	KER
+3947	Biology herb. of Natl. Univ. of Laos
+3948	Herb. Hort. Bot. Baliense
+3949	SING 2 sheets
+3950	Herb. of Tay Nguyen Inst. of Scien. Res. of Vietn. Acad. of Scien. & Technol.
+3951	NF NF08300304, NF08300306, NF08300311, NF08300331,
+3952	Herb. Mangalore Univ. Dept. Appl. Bot.
+3953	RB 3 sheets labeled 1,2,3 of 3)
+3954	bo
+3955	Herb. Bach Ma Nat. Park
+3956	S S-G-114
+3957	IER
+3958	VNU
+3959	Herb. Silvic. Res. Inst. Vietnam. Acad. Forest Sci.
+3960	HUFD
+3961	Spirit
+3962	TANG
+3963	CNMT
+3964	FUMH [FUMH
+3965	JUAM
+3966	ANKA
+3967	Hb. M. Fırat
+3968	P P
+3969	HNUL
+3970	GUHB
+3971	NY NY01303609 &
+3972	Herb. Orchid Soc. E. Himalaya
+3973	HCMS
+3974	JCH 2304 A
+3975	2304 B
+3976	P P00777175 (alc.)
+3977	WAG [WAG0120332, WAG0120333,
+3978	LBV LBV0003152,
+3979	WAG WAG0380170,
+3980	L L.2079937
+3981	U [U0123675, U0123676, U0123677,
+3982	WAG WAG0159192,
+3983	Herb. Shahid Bahonar Univ. Kerman, Mirtadzadini's collect.
+3984	IAUNT
+3985	MO MO-2849674,
+3986	Herb. Univ. Malaysia Sarawak
+3987	HUTPL
+3988	COGCEHR Herb. Hengbung
+3989	NHN-Kreutz
+3990	TOGO
+3991	MSSRF - Herb. M.S.Swaminathan Res. Found.
+3992	FOF
+3993	Herb. Inst. Trop. Pl. improvem., Vietnam
+3994	FAFYU
+3995	CORD CORD
+3996	Saraswathi Narayanan Coll. Herb.
+3997	LE 1
+3998	LECB 3
+3999	HAJU
+4000	XYTC
+4001	HENU
+4002	BABY
+4003	MO MO–04984889
+4004	MO–04604340
+4005	SPF SPF–109890
+4006	JBAG-Laínz.
+4007	Herb. Pers, MA
+4008	JBAG-Lains
+4009	К
+4010	ICES
+4011	JBL spirit
+4012	HLUC
+4013	Herb. Bozok. Univ.
+4014	Kerman university herbarium-Mirtadzadini’s collection
+4015	SORO
+4016	Herb. Hon Ba Nat. Reserve
+4017	ACAM
+4018	SNMH
+4019	Forest Admin. Cambodia
+4020	WELT SP
+4021	NSK NSK0000706,
+4022	MEM
+4023	LABEV
+4024	VSNF
+4025	Herb. M.Firat
+4026	Herb. M.
+4027	WU (Inventar Nr. 3502, planta sicca)
+4028	WU (Inventar Nr. 3981, flos in liquore alcoholico)
+4029	OLM
+4030	CORD (planta in liquore alcoholico)
+4031	WU (Inventar Nr. 3809, planta in liquore alcoholico (VG07-
+4032	BM BM 000074168 (on the right side of herbarium sheet)
+4033	BHBC
+4034	KL - Herbarium Istriacum
+4035	KL (Herbarium Istriacum)
+4036	TAIF left-sided plant only
+4037	7213433
+4038	527708.2
+4039	572995.2
+4040	875440.2
+4041	875440.3
+4042	875440.4
+4043	875440.5
+4044	875440.6
+4045	Hb. Brandstätter
+4046	Hb. Dunkel
+4047	VAL 181058 ALEJ
+4048	VAL 181057 ALEJ
+4049	H. Dunkel
+4050	val
+4051	IVIC
+4052	Herb. Vu Quang Nat. Park
+4053	CMUH CMUH
+4054	UC UC
+4055	?TAN
+4056	COL ?
+4057	SWCTU
+4058	PE?
+4059	Herb. M.Fırat
+4060	BO 1443573,
+4061	ALNHS
+4062	Dfb
+4063	University of Forestry, Sofia, Bulgaria
+4064	CAL 4044 a
+4065	CAL 4044 b, c, d
+4066	Herb. M. Fırat
+4067	Herb. Sta. of Hon Ba Nat. Reserve
+4068	MSB 164016, sheet 2
+4069	Herb.Erben
+4070	SLBI
+4071	ABH 71925,
+4072	AMAL
+4073	Nigde Univ. Herb.
+4074	PNP
+4075	Herbarium of Universiti Malaysia Sarawak
+4076	CICY!
+4077	Shiraz University Herbarium
+4078	Herb. J. Zambrano
+4079	isotype in Herb. J.Zambrano [in spirit]
+4080	GZO
+4081	576503
+4082	576504
+4083	MO M-O1726377
+4084	FJCIQ
+4085	MAYOT
+4086	NEXU
+4087	HER-BAM
+4088	CMS
+4089	Herb. St. Thomas's College, Kerala, India
+4090	BOTRTMNU
+4091	herbarium NGBB
+4092	Herb. Univ. Santo Tomas
+4093	HUSC
+4094	Herb. Agricultural and Natural Resources Research Center of Kerman
+4095	Herb. Fern.Casas
+4096	Herb. F.J.Fern.Casas
+4097	NWTC)
+4098	herb. Global University (Lebanon)
+4099	herb. Walailak Univ.
+4100	CNARPI
+4101	GXM
+4102	WRSL a single specimen mounted on 4 sheets [nos.
+4103	KTU KTU 052019, KTU 052020, KTU
+4104	Herb. Cecchi no.
+4105	SZB
+4106	Herb. R.Čičmir
+4107	PI N.6042
+4108	Herb. M. Hirth
+4109	GRM MHNGr.2016.37190
+4110	BNM
+4111	WAG WAG.1228575
+4112	LLANOS
+4113	MPSU
+4114	VTN - Herb. Tay Nguyen Inst. Sci. Res.
+4115	NRCS
+4116	UQU
+4117	SHG
+4118	BKF?
+4119	WIS v0325283WIS
+4120	WIS v0325583WIS
+4121	v0325587WIS
+4122	NWRTC
+4123	CTBS
+4124	HGOM
+4125	Herb. Bach Ma Natl. Park
+4126	d-EXSICCATES OF VIETNAMESE FLORA 0248/K
+4127	d-EXSICCATES OF VIETNAMESE FLORA 0247/AL
+4128	Forestry Administration Herbarium, Phnom Penh, Cambodia
+4129	MW MW0595558 &
+4130	BRI-AQ
+4131	Icesi
+4132	LS/HAC
+4133	CAL Access. no.
+4134	UKMB SMP7B1
+4135	Du-30799
+4136	Du-10932
+4137	K spirit -
+4138	Herb. Lloyd Bot. Gard., Darjeeling
+4139	MJO
+4140	Herb. Univ. of Santo Tomas
+4141	KRA 0434626 A-C
+4142	KRA 0434630A-C,
+4143	KBFH
+4144	H.Akhani
+4145	GDOR
+4146	SPF 194357 (fr.)
+4147	SPF 194357 (st.)
+4148	SUH
+4149	Herbarium of Karnataka Forest Department’s Research and Utilization Division, Doresanipalya, Bangalore
+4150	LEC LEC
+4151	Herb .Cattaneo
+4152	herb. M. Fırat
+4153	herb. Manisa Celal Bayar University
+4154	RPRC
+4155	JBP
+4156	BHCB BHCB026909, BHCB026910 (mounted on two sheets)
+4157	UT126715
+4158	BUPL
+4159	BILAS 76801/76802 (one gathering)
+4160	BILAS 76803/
+4161	ERRCH
+4162	GVCH
+4163	BP BP
+4164	Herb. Hedlund 79,
+4165	USD
+4166	CSFT
+4167	PVNH
+4168	SC
+4169	Hb. Akçiçek
+4170	Hb. M.Firat
+4171	HKM
+4172	B B10
+4173	HAL HAL
+4174	Yıldırımlı Herb.
+4175	Herbario del Jardín Botánico de Holguín
+4176	MW MW
+4177	UNEMAT
+4178	G No.
+4179	S S
+4180	L L.3955619
+4181	L L.3955617
+4182	TNS 759747-759748,
+4183	757864
+4184	SHN
+4185	Herb. Center Pl. Conservation Hanoi
+4186	MAU MAU
+4187	LBMBP
+4188	CBB
+4189	MKMEL
+4190	MKNH
+4191	CAY CAY101513, CAY101514,
+4192	0182089
+4193	Vietnam Academy of Forestry Science
+4194	PE PE01690806,
+4195	Herb. Rajiv Gandhi Univ. Itanagar
+4196	HAL 116293 A
+4197	BOTU
+4198	MAIA
+4199	P P06774828,
+4200	P P00580305,
+4201	DNA DNA-D0221290
+4202	ANKI
+4203	CAY CAY088869, CAY088870,
+4204	Natma Taung National Park Office
+4205	B B-10
+4206	L L.3716600
+4207	L L.2183210
+4208	L L.2497874
+4209	L L.2500128
+4210	L L.2497913
+4211	L L.2497994
+4212	HUMZ
+4213	KE
+4214	Herb. Galanos
+4215	Herb. Univ. Malaysia Kelantan
+4216	Herb. El Mokni
+4217	UVM
+4218	L L 0004085! & L
+4219	MH (B.S.I.,CBE., T.N.)
+4220	author’s home laboratory
+4221	ORE 109601,
+4222	NY (including spirit-preserved flowers and leaves)
+4223	IBGE BGE.00039247
+4224	EAFM
+4225	UESC
+4226	Binatang-RC
+4227	K K-001090039,
+4228	E E-00414308,
+4229	Herb.-Phitos & Kamar
+4230	072504
+4231	CHR CHR
+4232	Natural History Museum, Thailand
+4233	1730026
+4234	1730027
+4235	1730028
+4236	IBSC?
+4237	WIS v0324962
+4238	v0324963
+4239	v0324964
+4240	K (spirit collection
+4241	Compton Herb. Kirstenbosch Natl. Bot. Gard.
+4242	587077
+4243	587078
+4244	ATCH
+4245	MO 6726475,
+4246	JXU
+4247	herb. J.-P.Reduron
+4248	Herb. J.-P.Reduron
+4249	Herb. J.P.Reduron
+4250	BO [one specimen over three sheets], accession No. BO–1934223 (shoot), BO–1934220 (leafy branch), BO–1934224 (inflorescence)
+4251	Herbarium of Vietnamese Academy of Forest Sciences (VAFS)
+4252	Forest Science Centre for Central Northern Vietnam (FSCC)
+4253	SEY
+4254	NEHU
+4255	Herb. Coll. Pl. Succ. Mun. Turicensis Helvetia
+4256	INM
+4257	AUH
+4258	DRC
+4259	142525
+4260	WRSL WR SN
+4261	2015032-3
+4262	LE LE01032192:
+4263	Celal Bayar University Herbarium
+4264	MIR
+4265	LASCA
+4266	PE PE01992086, PE01992087, PE01992157,
+4267	60823
+4268	60824
+4269	Hb. Dunkel)
+4270	27141
+4271	CAHUP #5970
+4272	K 'Mann
+4273	MO 1822177, 1822178,
+4274	CBÜ- Department of Biology
+4275	KIEL Comp-170101
+4276	Herb. Zidorn
+4277	UFV
+4278	UGDA fragment of plant with flowers
+4279	SWFU
+4280	Hadibu Herb.
+4281	Herb. Darainense
+4282	Herb. Fujian Univ. Tradit. Chinese Med.
+4283	Herb. Bidoup Nui Ba Natl. Park
+4284	JAR
+4285	HUEM
+4286	Nagaland Univ. Herb.
+4287	B10
+4288	HUEG
+4289	herb. F.J.Fernández Casas
+4290	NTWC
+4291	FI RS.2011.302
+4292	BI spec. 40320
+4293	FI RS.2014.501
+4294	MPU RS.1996.441
+4295	BI spec. 40322
+4296	FI RS.2014.521
+4297	FI RS.2012.453
+4298	BI spec. 40321
+4299	FI RS.2001.416
+4300	FI RS.2012.443
+4301	LEC ORCH
+4302	MPU RS.1996.462
+4303	FI RS.2015.513
+4304	FI RS.2001.442
+4305	AIX PH
+4306	LR MHNLR
+4307	LR mhnlr
+4308	MPU RS.1996.438
+4309	FL RS.2012.432
+4310	TAIF 202679, upper-right plant
+4311	TAIF 202679, other plants
+4312	HER
+4313	Herb. Mahidol Univ. [Kanchanaburi]
+4314	TUS 482550,
+4315	TZIM
+4316	ERCB
+4317	herb. Ó.Sánchez Pedraja
+4318	Herb. M.S.Swaminathan Res. Found.
+4319	FLAS 230768,
+4320	HCJS
+4321	COCO
+4322	QCNE [in spirit]
+4323	herb. Pei-Shan Wang
+4324	Herb. Pei-Chang Wang
+4325	Herbarium of the Research Center of Agriculture & Natural Resources of Khuzestan
+4326	Herb. A.Kress
+4327	F 2081330,
+4328	Herb. Arequipense
+4329	APP 52615, 52616, 52619, 52625, 52626, 52627, 52628, 52629, 52630, 52631, 52632, 52635, 52636, 52637, 52638, 54766, 54767,
+4330	CBG CBG
+4331	Herb. Fürnrohr
+4332	Herb. Schön
+4333	HFN
+4334	OLYM
+4335	XIBI
+4336	Herb. Merli
+4337	TNS TNS01270751, TNS01270753,
+4338	Forestry Administration Cambodia
+4339	BAG
+4340	MO, PMA
+4341	IPAS
+4342	PAMUK
+4343	CBAH
+4344	ERCH
+4345	Sari Payame Noor University
+4346	BRNM-792025
+4347	LI-802800
+4348	B B-
+4349	AMWS
+4350	Tenn
+4351	Herb. Stip. M.Nobis
+4352	TRN
+4353	Herbarium of Shihezi University
+4354	L L.3962133
+4355	L L.2535665
+4356	U U.1439024
+4357	L L.2535689
+4358	L L.3962132
+4359	PRA 28135,
+4360	The Station of Hon Ba Nature Reserve
+4361	Wood CTFT
+4362	Montpellier
+4363	MSUNH
+4364	Herb. Rajiv Gandhi Univ.
+4365	SMDB!
+4366	KU
+4367	Herb. Balıkesir Univ., Altınoluk Vocational School, Programme Med. Aromat. Pl.
+4368	VIR
+4369	IMDY
+4370	P P00853049,
+4371	TAIM
+4372	HJBG
+4373	HJBG-L
+4374	STU Gf
+4375	66403
+4376	Herb. Florencia
+4377	CUZCO
+4378	MO MO5595987–88,
+4379	MO MO4612293,
+4380	MO MO4936878,
+4381	CUVC CUVC25593,
+4382	JB
+4383	LYON
+4384	MO MO6682821– 25,
+4385	MO MO5662325–26,
+4386	MO MO5829096,
+4387	VDB n.v.
+4388	BNR
+4389	UGDA p-3958
+4390	herb. Genetic Resources Institute of ANAS
+4391	Yıldırımlı Otluk'u (Hb. Yıldırımlı)
+4392	CBNC
+4393	EVER
+4394	0241222
+4395	CALI CU138400 a
+4396	CALI CU138400 b-c
+4397	MH CU138400 d
+4398	TGBT
+4399	CSH CSH0134140, CSH0134141,
+4400	Z/ZH
+4401	KIB
+4402	LE LE01042154, LE01042155,
+4403	Herb. Centre Pl. Conservation, Vietnam Union Sci. Technol. Assoc, Hanoi
+4404	Herb. Yogi Vemana Univ.
+4405	Herb. Yayasan Pendidikan Alam Papua
+4406	L Hort. Leiden
+4407	CA-HUP
+4408	CR-INB CR-INB0004070391
+4409	CR-INB CR-INB0004123974
+4410	CR-INB CR-INB0003788475
+4411	CR-INB CR-INB0003788473
+4412	MO MO–2726051
+4413	PERTH 08479143 &
+4414	ASH
+4415	Herb. Mustafa Kemal Univ
+4416	EHE
+4417	CIAT
+4418	Herb. Goa Univ.
+4419	UW
+4420	21893
+4421	21894
+4422	WAG WAG0392359,
+4423	SRI
+4424	Photo Herb. Negaresh
+4425	KHAU
+4426	photo Herb. Negaresh
+4427	BUNS
+4428	NMW v.2006.1.309
+4429	TFA
+4430	HDA
+4431	Herb. Nat. Hist. Mus. Thailand
+4432	JBN
+4433	PSH
+4434	WAG WAG.1477676
+4435	00086224
+4436	CHER
+4437	Herb. Mirtadzadini
+4438	GB (Gothenburg)
+4439	GAT (Gatersleben)
+4440	WAG WAG 1793401, WAG
+4441	WAG WAG
+4442	WCAS
+4443	TRTE
+4444	Yayasan Pendidikan Alam Papua, Keerom
+4445	Cahup
+4446	INIREB
+4447	213823
+4448	213824
+4449	P P03975167,
+4450	526,488
+4451	CSH CSH0065051, CSH0065052, CSH0065053, CSH0065054,
+4452	196814
+4453	196815
+4454	196816
+4455	196817
+4456	196818
+4457	196806
+4458	196807
+4459	196802
+4460	196803
+4461	1152726
+4462	WAG WAG.1153971, WAG.1153970,
+4463	WAG WAG.1924698
+4464	Herb. Hunan Food and Drug Vocational College
+4465	HJBG H
+4466	UDA
+4467	HJBG L
+4468	HJBG-H
+4469	Herb. Hoang Lien National Park
+4470	SAMES
+4471	NMNH
+4472	UCT
+4473	ERE ERE0005792 (ERE 192248 on label)
+4474	ERE ERE
+4475	Herb. Center for Pl. Conservation
+4476	NMW V.2003.1.96
+4477	CORT
+4478	Herb.Flores & Watson
+4479	MANCH
+4480	278982
+4481	SING Spirit
+4482	WU (inventory No. 3202, dry plant
+4483	Herb. Luoyang Normal Univ.
+4484	EIF
+4485	CSTR
+4486	R.D. & S.H. National College Herbarium, Mumbai
+4487	LAU
+4488	Z/ZT
+4489	Herb. Schabelreiter
+4490	175984
+4491	34717
+4492	175987
+4493	GB [unnumbered] image
+4494	CAHUP (#
+4495	PNH (#37418)
+4496	PNH (#5733)
+4497	CAHUP (#14597)
+4498	UC (#49238)
+4499	PNH (#
+4500	PNH (#9385)
+4501	CAHUP (61933)
+4502	CAHUP (#5268)
+4503	UC (#295)
+4504	CAHUP (5294)
+4505	OBG
+4506	Herb. of Niğde Ömer Halisdemir University
+4507	NY-01903391 [overwritten as '895 p.p.’]
+4508	WI
+4509	KWHA
+4510	HNPM
+4511	CPUM
+4512	Herb. Pontif. Catholic Univ. Ibarra Headquarters
+4513	CANB CANB896067.1 (sheet), 896067.3 (spirit)
+4514	Timber specimen no.
+4515	Spirit specimen
+4516	KUn
+4517	srgh
+4518	The herbarium of Vu Quang National Park
+4519	BCU (015867)
+4520	SGO [SGO-143057]
+4521	4010129
+4522	4010118
+4523	Soc. Biol. Herb. Ophio-/
+4524	Bapalal Vaidya Bot. Res. Centre Herb.
+4525	Mus.of Nat. Hist. (Mdina)
+4526	CAG 1339/y,
+4527	Mus. Hist. Nat. Grenoble MHNGr.2017.37291
+4528	HS
+4529	QNUN
+4530	Herb. Kypriotakis
+4531	HUIRB
+4532	ANAZ
+4533	BO (Herb. Bogoriense)
+4534	AHU
+4535	HCSM
+4536	ZON
+4537	ANDAS
+4538	Herb. Bozok Univ. Biology Dept.
+4539	Hort. Bot. Leiden
+4540	Univ. Catolica de Ibarra
+4541	MNA
+4542	JXau
+4543	'adhuc in herbario meo' la
+4544	la
+4545	WAG WAG.1736404
+4546	Herb. Bidoup-Nui Ba Natl. Park
+4547	Herb. Du. Du-33281
+4548	30254
+4549	DU Du-28500
+4550	Du Du-29600
+4551	Herb. Lugd. Bat. 957.274
+4552	GNU
+4553	Herb. W. Jansen
+4554	Herb. W.Jansen
+4555	GPM
+4556	921702
+4557	HFN (hb. K. Meijer)
+4558	576478
+4559	576479
+4560	591747
+4561	606299
+4562	606300
+4563	606301
+4564	581128
+4565	02730089
+4566	YO
+4567	Herb. El Mokni Fac. Pharm. Monastir
+4568	Herb. Bozok Univ. Biol.
+4569	01552866
+4570	Herb. Vásq.
+4571	GAUA
+4572	HSTM
+4573	GUD
+4574	Herb. Hon Ba Nat. reserve
+4575	Herb. Hon Ba Nature Res.
+4576	W, WAG, YA
+4577	F v0053149F
+4578	LCU
+4579	WIS v 0324960 WIS
+4580	NSW (to be distributed)
+4581	HGCS
+4582	1435168
+4583	BSI-D
+4584	WAG 1540446, 1540448,
+4585	CBUCES
+4586	Herb. Tsentralno-Chernozemny Nature Reserve
+4587	Herb. M. Lynes
+4588	KIOM
+4589	HARG
+4590	K000853358k
+4591	K000853360
+4592	B (B #10
+4593	HAJB (HAJB #1245)
+4594	HBARC
+4595	MO 2295054 [MO-4882654]
+4596	HEUS
+4597	MO 2353068 [MO-5023087]
+4598	MO 2295051 [MO-4889196]
+4599	MO 2352663, [MO-5200404]
+4600	MO 2295056 [MO-5150807]
+4601	MO 2295059 [MO-4889377]
+4602	MO 2295298 [MO-04961886]
+4603	2295299 [MO-04961887]
+4604	MO 2295236 [MO-4889198]
+4605	MO 2295239 [MO-4901590]
+4606	VNMN ex
+4607	MAF (MAF
+4608	01048661
+4609	Herb., R.D. & S.H. National College (RDNCP)
+4610	Herb., VIVA College, Mumbai
+4611	CPC: Herbarium of the Centre for Plant Conservation, Vietnam
+4612	WAG WAG.1572957
+4613	FIPIA
+4614	SUFAF
+4615	CIOA spirit
+4616	SGH
+4617	MO MO5173998, MO5173999,
+4618	Herb. Station of Hon Ba Reserve
+4619	NHMG
+4620	HERBAN
+4621	CAS CAS-BOT-BC-460965
+4622	GH Raven
+4623	RB (to be distributed)
+4624	SPF (to be distributed)
+4625	US (to be distributed)
+4626	CEPECS
+4627	Herb., R.D. & S.H. National College (RDNCP), Mumbai
+4628	Hewrb., VIVA College, Mumbai
+4629	WUH
+4630	U U.1208014
+4631	50939
+4632	50940
+4633	50941
+4634	50942
+4635	50944
+4636	50945
+4637	50946
+4638	50947
+4639	50948
+4640	51578
+4641	51579
+4642	51580
+4643	51581
+4644	MNHN-P-P
+4645	BHPL
+4646	BVBRC
+4647	Herb. Soc. Bionature, Bhopal, India
+4648	Herb. Walchand Coll. Solapur
+4649	96596
+4650	96623
+4651	000456604
+4652	000456856
+4653	202742
+4654	202743
+4655	198570
+4656	198571
+4657	202567
+4658	202568!
+4659	178336
+4660	178337
+4661	201976
+4662	201977
+4663	202138
+4664	202139
+4665	202173
+4666	202174
+4667	2012293
+4668	149351
+4669	198737
+4670	198738
+4671	198740
+4672	202298
+4673	202299
+4674	DLSUH
+4675	herb. Reduron
+4676	Anda
+4677	BO BO−1917821
+4678	BO−1917823
+4679	BO BO−1917822
+4680	BO BO–1917778
+4681	BO−1917782
+4682	BO−19177787
+4683	BO−19177891
+4684	BO BO–197777
+4685	BO–197779
+4686	BO–1917780
+4687	BO–1917781
+4688	BO–
+4689	BO–1917784
+4690	BO–1917785
+4691	BO–1917892
+4692	BO–1917793
+4693	BO BO−1918528
+4694	BO−1918532
+4695	BO−1918534
+4696	BO BO−1918529
+4697	BO−1918530
+4698	BO−1918531
+4699	BO−1918533
+4700	BO−1918535
+4701	BO BO−1919726
+4702	BO−1919729
+4703	BO BO−1919727
+4704	BO−1919728
+4705	BO BO−1917879
+4706	BO−1917880
+4707	BO BO−1917881
+4708	BO BO−1919381
+4709	BO−1919495
+4710	BO BO−1920648
+4711	BO−920647
+4712	BO BO−1917834
+4713	BO−1917836
+4714	BO BO−[1]917831
+4715	BO−1917832
+4716	BO−1917833
+4717	BO−1917835
+4718	BO BO−1919730
+4719	BO−1919731
+4720	BO−1919734
+4721	BO BO−1919732
+4722	BO−1919733
+4723	BO BO−0033635
+4724	MAR
+4725	SRSC (SRSC Katalog-No.
+4726	SUFH
+4727	Herb. De La Salle University, Manila
+4728	HJPU
+4729	HAJB Serie Catasus
+4730	MTK
+4731	GUAD
+4732	UNIBAS
+4733	South African National Biodiversity Institute
+4734	SWNTU
+4735	1347067
+4736	809857
+4737	S S-R-2356
+4738	B B
+4739	S S-R-2357
+4740	Herb. Bot. Gard. Hoguín
+4741	HWA
+4742	Herb.M.Fırat
+4743	TCGRI [spirit]
+4744	TMUH
+4745	k
+4746	BREG
+4747	11375
+4748	11271
+4749	11272
+4750	LI 839943 [Barcode
+4751	25057
+4752	25058
+4753	Hb. Gonnelli
+4754	SAF
+4755	HUTB
+4756	ASM
+4757	PNH (10085)
+4758	Herb. Bulolo
+4759	CCAU
+4760	WELT WELT-P026139/B
+4761	MELU-P
+4762	WELT WELT-P028313/A
+4763	MO MO-A6351006
+4764	Herb. Dirmenci
+4765	PAL PAL-Gr
+4766	Sri Ganesan Herbarium, Dept of Botany, The Madura College
+4767	Herb. Mahidol Univ.
+4768	Herb. Soc. Bionaturalists, Bhopal
+4769	Herb. Biosci. Dept. South Gujrat Univ.
+4770	CAN Plant A
+4771	CATU
+4772	Herb. Soc. Bionaturalists Bhopal
+4773	Herb. Biosci. Dept. South Gujrat Univ., Surat
+4774	Herb. Bapalal Vaidya Bot. Res. Centre, Surat
+4775	L L.2716805
+4776	L L.2716807
+4777	L L.2716806
+4778	RCVC
+4779	INBAC
+4780	CODAGEM
+4781	JUAM JAUM-82165, as 2147 (1/2)
+4782	JUAM JUAM-82166, as 2147 (2/2))
+4783	P P05114583,
+4784	IS
+4785	the herbarium of Iriomote Station, (Japan)
+4786	the herbarium of Iriomote Station (Japan)
+4787	HAMAB!
+4788	89001
+4789	TNS (TNS
+4790	The Madura College, Madurai
+4791	HAJB (HAJB #1138)
+4792	HAJB (HAJB #1141)
+4793	K (2 sheets)
+4794	169449
+4795	0819581
+4796	186802
+4797	SPSC
+4798	JXCM
+4799	MO MO-3110673, accession no.
+4800	01049834
+4801	HUEFFS
+4802	NIT
+4803	Herb. FJFC
+4804	UST
+4805	HNBG
+4806	UASLP
+4807	RHK
+4808	HUNT
+4809	4010156
+4810	herb. Flores & Watson
+4811	TAR
+4812	Herbarium of Society of Bionaturalists Soc.Bio/N04-82/2017
+4813	Bapalal Vaidya Botanical Research Centre
+4814	HUSY
+4815	CAG n.1330/AF
+4816	ANC
+4817	CAG n.1330/AG
+4818	FI FI
+4819	CR-ex INB
+4820	HIB HIB-lzz51
+4821	F F-1179074 (labeled as '580')
+4822	G [G00341284
+4823	67720
+4824	MDL
+4825	WU Inventar Nr.
+4826	OB
+4827	JEP
+4828	WFRC
+4829	HUES
+4830	TCG
+4831	IBC
+4832	Herb. Bandungense FIPIA
+4833	?LMA
+4834	Bingöl Univ. Biology Dept. Herbarium
+4835	EBL
+4836	FHO FHO00005224,
+4837	BR BR0000026779362V,
+4838	P00735182,
+4839	P P04251264,
+4840	BR BR0000013200992,
+4841	P P00761401, P00761402,
+4842	BR BR0000009266285,
+4843	WAG WAG0199945,
+4844	BR BR0000006636753, BR0000006636913, BR0000006637088,
+4845	WAG WAG0136090,
+4846	BR BR00000020430269,
+4847	WAG WAG0026652,
+4848	Gunung Jerai Forestry Museum
+4849	TH
+4850	L L.3969978
+4851	L L.3969809
+4852	SING SING
+4853	L L.3969588
+4854	L L.3969980
+4855	L L.3969583
+4856	VMNM
+4857	L L.2487636
+4858	Herb. F.W.Sander
+4859	00013210
+4860	00013212
+4861	00013213
+4862	00013214
+4863	93570
+4864	335715B
+4865	335715C
+4866	00035002
+4867	TUS-K
+4868	Herb. Fac. Zootecn. Ecol. – Univ. Autón. Chihuahua
+4869	TAD loco Kaltasai
+4870	CTGU
+4871	22433
+4872	2005028
+4873	2005030
+4874	2005031
+4875	2005032
+4876	2005033
+4877	2005034
+4878	2005035
+4879	HTSA
+4880	CFSI
+4881	SCBG
+4882	MH Acc.
+4883	MO MO3202025, MO3202026,
+4884	MO MO5150837,
+4885	UCWI
+4886	MO MO6355420,
+4887	319085
+4888	319086
+4889	319087
+4890	Herb. J.Zámečník
+4891	TOSEHIM (The Orchid Society of Eastern Himalaya
+4892	VBGI VBGI
+4893	MUMP
+4894	MH 207 B-D
+4895	NSK (NSK0000903)
+4896	KWNU
+4897	GONC
+4898	1679106
+4899	MO MO5565285,
+4900	PMA PMA046113,
+4901	LSU LSU0193694,
+4902	MO MO5551151,
+4903	PMA PMA094201,
+4904	MO MO6421737,
+4905	SCZ SCZ17752,
+4906	LSU LSU0193696,
+4907	MO MO5551138,
+4908	MO MO2601823, MO117643, MO5551400,
+4909	PMA PMA101093,
+4910	LPB s.n.
+4911	US s.n.
+4912	BMLH
+4913	0407118
+4914	UZI
+4915	Herb. Bioresources Database Bioinformatics Div. IBSD Imphal ORC-BDBD-IBSD/2017-0002
+4916	HITBC [HITBC0030007]]
+4917	HITBC [HITBC0030008]
+4918	HITBC [HITBC0030009]
+4919	GILAN
+4920	IBRC
+4921	PEU
+4922	VOR
+4923	MBGH
+4924	DLSU-DH
+4925	MVJB [MVJB30748]
+4926	MVJB [MVJB30749]
+4927	personal herbarium of Şinasi Yıldırımlı
+4928	Biol. Herb. Natl. Univ. Lao PDR
+4929	SPPU
+4930	BKF [SN
+4931	QBG [SN
+4932	IBK IBK00241262 (sic)
+4933	HNNU LWP-LZ1709015
+4934	HNNU LWP-LZ1709006
+4935	HNNU LWP-LZ1709007
+4936	HNNU LWP-LZ1709008
+4937	ank
+4938	duof
+4939	SFAHAN
+4940	Herb. YILDIRIMLI
+4941	GRI
+4942	CAAS
+4943	ECT
+4944	HORA
+4945	Biol. Herb. Natl. Univ. Laos
+4946	HTBC (HITBC0030005)
+4947	HTBC (HITBC0030006)
+4948	WAG WAG.1572929
+4949	CPC (herbarium of Center for Plant Conservation of Vietnam, Hanoi)
+4950	KHB
+4951	GB 012
+4952	01037829
+4953	01031008
+4954	01031009
+4955	00279472
+4956	00946000
+4957	LIV LIV.2005.15.1184
+4958	KFTA KFTA0004644 [fl.]
+4959	KFTA KFTA0004646 [fl.]
+4960	KFTA KFTA0004650 [fl.]
+4961	01969513
+4962	01033865
+4963	08902615
+4964	CR ex-INB
+4965	02684958
+4966	02685025
+4967	UCHT
+4968	LM
+4969	Rocky Mtn. Nat. Park working herbarium
+4970	MAU ex
+4971	1495894
+4972	FREE
+4973	2070270
+4974	ICESI
+4975	RB RB
+4976	NIBRVP
+4977	HBARC [HBARC-00006391]
+4978	HBARC [HBARC-00006392]
+4979	K spirit
+4980	INPAw
+4981	HFTC
+4982	KW (four sheets with four barcodes)
+4983	DIA
+4984	HSN
+4985	: QCA (2 sheets)
+4986	KUBH (Kerala University Herbarium, Thiruvanathapuram)
+4987	Khuzestan Agricultural and Natural Resources Research and Education Center Herbarium
+4988	01043696
+4989	196573
+4990	196574
+4991	S S-R-10531
+4992	BUAP
+4993	Herbario de la Universidad Autónoma de Zacatecas
+4994	NY (NY00658653)
+4995	QBG [including flowers in spirit as part of a single specimen]
+4996	BK [including flowers in spirit as part of a single specimen]
+4997	SING [including flowers in spirit as part of a single specimen]
+4998	BKF [including flowers in spirit as part of a single specimen]
+4999	Herb. Indraprastha Univ. (IPUH)
+5000	APRFH
+5001	Herb. P.J.Spence
+5002	KRB spirit
+5003	AMES (AMES
+5004	FAFC
+5005	PERTH ex MEL
+5006	0283801
+5007	NIMM
+5008	083542
+5009	MO (MO (herbarium sheet and flowers preserved in alcohol),)
+5010	P [MNHN-P-P01046876]
+5011	CPUN CPUN–22705
+5012	P [P00046645]
+5013	P [P00248588]
+5014	P P [P00067053]
+5015	P [P00085177]]
+5016	P [P00749307]
+5017	P [P00749306]
+5018	P [P00248637]
+5019	P [P06488838]
+5020	MO [MO-2980324]
+5021	P [P00749466]
+5022	P [P00749465]
+5023	P [P00749267]
+5024	P [P00749266]
+5025	P [P00181220]
+5026	P [P02435014]
+5027	P [P02435818]
+5028	P [P00749380]
+5029	P [P02435813]
+5030	TAN [P02434961]
+5031	TEF [P00749308]
+5032	P [P00749309]
+5033	P [P00085152]
+5034	P [P00085153]
+5035	P [P00067015]
+5036	P [P00212379]
+5037	P [P02432989]
+5038	P [P00006299]
+5039	P [P00338390]
+5040	MO [MO-2995834]
+5041	P [P00749370]
+5042	MAG
+5043	MAG MAG0000036,
+5044	MAG MAG0000020,
+5045	MAG MAG0000013, MAG0000014,
+5046	UNACH
+5047	HUPJ
+5048	HNOP
+5049	ECAUMZ
+5050	Herb. Dept. Appl. Bot., Mangalore Univ.
+5051	WIS v0260639WIS
+5052	RN
+5053	DMHN
+5054	HAR (HARG000202)
+5055	SUFAH
+5056	BUBH
+5057	BO 1973652 to
+5058	DE DE-Soo-43283
+5059	DE DE-Soo-38311
+5060	BP HNHM-TRA00012473
+5061	KUN (KUM)
+5062	SHNU
+5063	P missing
+5064	WU (Inventar Nr. 3648 -dry plant)
+5065	WU (Nr. 4120 -flower in liquore alcoholico)
+5066	PCM
+5067	FCO FCO-39253 (specimen in upper left corner)
+5068	IBGE [IBGE33546]
+5069	RB [RB496900]
+5070	NBG [2 sheets]
+5071	MCCA
+5072	JOTR
+5073	11615
+5074	11616
+5075	11618
+5076	11534
+5077	ANDALAS
+5078	DUP
+5079	PSUB
+5080	Ya
+5081	B destroyed
+5082	MT 8387, Plant C
+5083	JBL [J0571])
+5084	SP [SP
+5085	WRSL WR GN
+5086	INAT
+5087	HBRA
+5088	HIFPA
+5089	UDCA
+5090	HTL
+5091	209686
+5092	HUY
+5093	CANB CANB.00708032
+5094	L L.2637084
+5095	000989063
+5096	WAG WAG.1923228
+5097	UESB
+5098	NY bc-03346607
+5099	NY NY02104713,
+5100	RB RBSpirit 2601 barcode
+5101	HUSFJ
+5102	HSS [HSS
+5103	HBJU
+5104	MDI
+5105	PH (sheet number
+5106	WAG WAG.1124212
+5107	WAG WAG.1124211
+5108	WAG WAG.1124213
+5109	WAG WAG.1124214
+5110	personal herbarium of P. Coulot
+5111	personal herbarium of Ph. Rabaute
+5112	BM Soc.Bio/182/2017/01-03
+5113	Herbarium of Society of Bionaturalists Soc.Bio/182/2017
+5114	HN (more than
+5115	NHMC (NHMC
+5116	Muséum d'Histoire Naturelle de La Rochelle MHNLR
+5117	Herb. Bingöl Univ. Biol. Dept.
+5118	02070802
+5119	02070803
+5120	HDJF
+5121	Herb. Bangka Belitung University
+5122	CPC (Herbarium of Center for Plant Conservation of Vietnam)
+5123	YBI
+5124	G-BU
+5125	HVC
+5126	BJTC
+5127	HUT HUT
+5128	100136109
+5129	TUXTLAS
+5130	WIS [v0402832WIS]
+5131	WIS [v0402835WIS]
+5132	Guilan Univ. Herb.
+5133	UDW
+5134	IBCS
+5135	288258
+5136	288259
+5137	417072
+5138	473021
+5139	WU (Inventar Nr.
+5140	Herbarium Hatay Mustafa Kemal Univ.
+5141	Ny
+5142	AKPM
+5143	Herb. Inst. Pl. Sci. Resources Okayama Univ.
+5144	JE Sheet I
+5145	JE Sheet II
+5146	PISF
+5147	RB RB-
+5148	UNILASALLE
+5149	BOL BOL_5450
+5150	BOL BOL_6107
+5151	NBG NBG_0181112
+5152	PRE PRE_0239816
+5153	Herb. Fırat
+5154	HOXA HOXA-
+5155	MIMB
+5156	122100
+5157	K [K000728449
+5158	L L.1713650
+5159	QCA7007917 (2 sheets)
+5160	Herb. of RILOG (Silva Tarouca Research Institute for Landscape and Ornamental Gathering, Pruhonice, Czech Republic)
+5161	486503
+5162	486504
+5163	486505
+5164	486506
+5165	486507
+5166	486508
+5167	454906
+5168	456642
+5169	456646
+5170	457709
+5171	479082
+5172	468750
+5173	465273
+5174	479065
+5175	479066
+5176	479067
+5177	BSI (207387 C)
+5178	MH (207387 B)
+5179	HUNEB-Coleção Caetité
+5180	HUNEB-Coleção Paulo Afonso
+5181	ARC
+5182	00004841b
+5183	33751
+5184	33753
+5185	IST
+5186	2970013
+5187	2964362
+5188	2964363
+5189	L L.3986814
+5190	L (L.3993359)
+5191	L (L.3986813)
+5192	Herb. Phycol. Limnol. Hydrobiol. Lab, Dept. Bot. Univ. Dhaka
+5193	CHAX (CHAX224)
+5194	CHAX (CHAX227)
+5195	CHAX (CHAX235)
+5196	CHAX (CHAX238)
+5197	CHAX (CHAX245)
+5198	L L.2336455
+5199	WAG WAG0303483,
+5200	1217182
+5201	6615795
+5202	HUM
+5203	DUSH
+5204	150993.2
+5205	01072767
+5206	01072803
+5207	LE 01072774 [specimen marked by asterisk]
+5208	01072995
+5209	01072996
+5210	LE 01072779 [specimen marked by asterisk]
+5211	01072785
+5212	LE 01072790 [specimen marked by asterisk]
+5213	LE 01072786 [specimen marked by asterisk]
+5214	CWNU
+5215	TELA
+5216	HARRAN
+5217	DR DR
+5218	available online at https://www.jacq.org/detail.php?ID=1743069
+5219	available online at http://herbarium.bgbm.org/object/B101154436
+5220	AN
+5221	IMA
+5222	GXFI
+5223	USM spirit
+5224	GRM [MHNGr.2020.46703]
+5225	GRM [MHNGr.2020.46705]
+5226	GRM [MHNGr.2020.46704]
+5227	6057850
+5228	6060866
+5229	APP 59645, 59648, 59650, 59651, 59653,
+5230	USJ [3 parts including spirit]
+5231	L L.1749583
+5232	UCNW
+5233	VNMN VNMN-B0020346
+5234	CSF
+5235	herb. R.Viane
+5236	Herb. T.Reichstein, Basel (now in GENT)
+5237	herb. R. Viane
+5238	P P00312028,
+5239	Herb. R. Viane
+5240	herb. pers. R. Viane
+5241	TAF
+5242	NNG
+5243	pers. herb R.Viane
+5244	KASOF
+5245	AYBU [Ankara Yıldırım Beyazıt Üniversitesi Herbaryumu]
+5246	BM (to be distributed)
+5247	HT
+5248	CSH [CSH0180561, ♀]
+5249	Herb. Vu Quang National Park
+5250	MO MO-3089060, accession
+5251	K [K
+5252	P [P01073391]
+5253	MPU [MPU312888][MPU312889]
+5254	NOU [NOU090953]
+5255	P [P00865080]
+5256	HY
+5257	Yogi Vemana University, Kadapa
+5258	Yogi Vemana Herbarium
+5259	SOM 177
+5260	SLUI
+5261	VNM [VNM
+5262	Herbarium of the Orchid Society of Eastern Himalaya
+5263	WU WU-Liqu.0063748
+5264	HCF
+5265	2402982 (spirit)
+5266	SGO [157641]
+5267	M spirit
+5268	National University Herbarium, Hanoi
+5269	Vietnam National University Herbarium, Hanoi
+5270	HZTC
+5271	FCNL
+5272	SZUB
+5273	Herb. Jac.Koopman
+5274	private herbarium Jac. Koopman
+5275	MO [MO1690017]
+5276	HULE [HULE23576]
+5277	P [P04782022]
+5278	BRI BRI-AQ0542035
+5279	JCT JCT-S4021
+5280	02345123
+5281	02345124
+5282	BKF [SN229663, Fig. 5]
+5283	BKF [SN229662]
+5284	BRNH
+5285	IBEC
+5286	KUBH [Kerala University Herbarium]
+5287	498970
+5288	498971
+5289	498972
+5290	KEP KEP
+5291	Herb. Yvan Brahy
+5292	2158388
+5293	Herb. Forest Administration of Cambodia
+5294	IHUF access. no. T 32/ IHUF
+5295	US [US3492386]
+5296	WAG WAG.1477768
+5297	L L.1431960
+5298	BKF [spirit material]
+5299	01081616
+5300	01081617
+5301	00531761.2
+5302	HUEFS 241798 [pro parte]
+5303	COMPT
+5304	KYO spirit
+5305	TAI [TAI289768]
+5306	O O-V-2334309
+5307	NY [2 sheets]
+5308	herb. Inst. Invest. Ecos. Sust.
+5309	SD [SD278625]
+5310	US [US02908745=US2796919]
+5311	6642456
+5312	LIV [LIV-2005.15.2873]
+5313	BBRG
+5314	202772
+5315	202773
+5316	01452197
+5317	KUN [KUN1519999]
+5318	37873
+5319	[2 sheets]
+5320	Herb. Z.Z.Yang
+5321	DAG
+5322	Herb. P.J.Spence PS-E-008-H
+5323	KEP SC3794 (spirit)
+5324	MW0595738 2 sheets
+5325	TAUR
+5326	WAG WAG.1180513
+5327	WAG WAG.1180486
+5328	WAG WAG.1782809
+5329	Herb. Sri Ganesan Dept. Bot. Madura Coll.
+5330	KUN [3 sheets]
+5331	1579101
+5332	HURP (LCDP voucher)
+5333	QCNE In spirit
+5334	HPUJ (LCDP voucher)
+5335	CAUP (LCDP and photo voucher)
+5336	JBL [in spirit]
+5337	HURP (LCDP and photo voucher)
+5338	AMO spirit
+5339	JBL [E1119]
+5340	JBL [D6453]
+5341	JBL [JBL-spirit]
+5342	QCNE Spirit
+5343	F 2211499 (the main specimen, not the flowers in envelope which appear to belong to a different species)
+5344	Herb. UNIBAS
+5345	BAM
+5346	L L.2734271
+5347	Manado
+5348	L L.2734346
+5349	RB 00558771 (2 sheets)
+5350	MNHN MNHN-P-P00220783
+5351	UEC [UEC018613]
+5352	BHCB [BHCB64825]
+5353	MNHN MNHN-P-P00078015
+5354	MNHN MNHN-P-P00078018
+5355	MNHN MNHN-P-P00708248
+5356	MNHN MNHN-P-P04780914
+5357	FNPS
+5358	MNHN MNHN-P-P00217926
+5359	MNHN MNHN-P-P05479942
+5360	MNHN MNHN-P-P00221930
+5361	MNHN MNHN-P-P00221931
+5362	MNHN MNHN-P-P05479943
+5363	SP [SP360090]
+5364	CEN [CEN00041136]
+5365	HUEFS [HUEFS000199840]
+5366	SP [SP468419]
+5367	MNHN MNHN-P-P00889705
+5368	MNHN MNHN-P-P00217871
+5369	SWU
+5370	MNHN MNHN-P-P00221993
+5371	MNHN MNHN-P-P04781017
+5372	MNHN MNHN-P-P00221533
+5373	MNHN MNHN-P-P00221532
+5374	MNHN MNHN-P-P00217916
+5375	Herb. M. Al-Fatimi [in alcohol
+5376	to be deposited in a Yemeni institutional herbarium]
+5377	Herb. Al-Fatimi
+5378	MNHN MNHN-P-P00685144
+5379	MNHN MNHN-PP00217909
+5380	CAA
+5381	CANB [CANB
+5382	DNA [DNA
+5383	YUKU [YUIKU02074626]
+5384	YUKU [YUKU02074625]
+5385	OL [OL
+5386	Herb. Soc. Ci. Nat. de Sestao
+5387	Herbarium of Sakarya University
+5388	SAKU
+5389	SING [SING0192239]
+5390	P [P00807164]
+5391	E [E00955838]
+5392	E [E00646946]
+5393	BKF [SN174405]
+5394	L [L3933204]
+5395	E [E00646941]
+5396	SING [SING0201160]
+5397	P [P00807169]
+5398	SEL [SEL095415]
+5399	TAI [TAI289813]
+5400	KYO sheet & spirit
+5401	WU VG09-VG
+5402	WU 3855 (spirit)
+5403	Hb. GUL
+5404	Hb. VANF
+5405	2437686
+5406	Herb. Bot. Gard. Holguín
+5407	Tarbiat Modares University Herbarium
+5408	PAUB GSE
+5409	0865766
+5410	Herb. Fco Gómiz
+5411	11792
+5412	Herb. P. Soria
+5413	11801
+5414	KEP SC11647 (spirit)
+5415	SAR spirit
+5416	FEUH Including spirit
+5417	149564.2
+5418	268875
+5419	HIB [HIB
+5420	0189505
+5421	0189506]
+5422	Herb. Fac. Nat. Sci., Natl. Univ. Laos
+5423	Sri Ganesan Herbarium (Department of Botany, The Madura College, Madurai)
+5424	HUEFS [HUEFS000032100]
+5425	ALCB [ALCB044377]
+5426	MEL [MEL2067499]
+5427	CHR [CHR333534]
+5428	P P00971675-P00971678 [all part of single specimen]
+5429	CBNB
+5430	2407328
+5431	QCA (in spirit)
+5432	HPUSECI
+5433	HPUCESI
+5434	Herb. Gilan Agric. Nat. Resources Res. Center
+5435	AK [AK382940A (Fig. 2), AK382940B (Fig. 3)]
+5436	UNITEC [UNITEC
+5437	NPH
+5438	TUM
+5439	KUELAP
+5440	KYO [sheet and spirit]
+5441	cebu
+5442	cmuh
+5443	JARI
+5444	2629942
+5445	IPN
+5446	BGT
+5447	GIB
+5448	Herb. Dept. Bot. Bharathidasan Univ.
+5449	Herb. Dept. of Botany, Bharathidasan Univ., Tiruchirappalli
+5450	000005
+5451	BHCB ex BHMH
+5452	CR CR-4018964 -
+5453	KBA
+5454	ANK [ANK
+5455	WAG WAG.1576038, WAG.1576039 [2 sheets]
+5456	WAG WAG.1587477
+5457	WAG WAG0232743, WAG0232744 [2 sheets]
+5458	WAG WAG.1575982
+5459	MO [2 sheets]
+5460	G [2 sheets]
+5461	WAG WAG.1576469
+5462	WAG WAG0151260, WAG0151261, WAG0151262 [3 sheets]
+5463	MO to be distributed
+5464	JBL J0159 (spirit)
+5465	596689/B
+5466	QCA 243317 [2 sheets]
+5467	F [2 sheets]
+5468	TBR
+5469	CAP
+5470	GRM MHNGr.2021.49505
+5471	HVSF
+5472	Herb. Mersin University
+5473	Herb. Mewar University, Chittorgarh, Rajasthan MUCR
+5474	LEO
+5475	PAMP
+5476	MEXU To be deposited
+5477	01067174
+5478	01058078
+5479	ZN
+5480	UUH
+5481	BR to be distributed
+5482	NY to be distributed
+5483	R to be distributed
+5484	RB to be distributed
+5485	SI to be distributed
+5486	SP to be distributed
+5487	35925
+5488	KUN [KUN1418097]
+5489	BRIT [BRIT478072]
+5490	CAS [CAS346898]
+5491	E [E01016879]
+5492	GH [GH00288213]
+5493	Herbarium of Gifu University
+5494	86969
+5495	MKSU
+5496	TAI [TAI289769]
+5497	JVR
+5498	UCBD
+5499	YUH
+5500	01061388
+5501	HA (HA 5333 – left hand plant)
+5502	HA (HA
+5503	QAP [QAP
+5504	QCNE (QCNE
+5505	508075
+5506	Herb. Du Du-37107
+5507	Herb. Du Du-32850
+5508	AKSU
+5509	Herb. Du Du-37124
+5510	Herb. Du Du-37109
+5511	Herb. Du Du-29905
+5512	Herb Du. Du-15636
+5513	Herb. Du Du-29960
+5514	Herb. Du Du-29912
+5515	Herb. Du Du-37094
+5516	Herb. Du Du-37115
+5517	Herb. Du Du-32854
+5518	Herb. Du Du-29967
+5519	Herb. Bingöl Univ. Biology Dept.
+5520	Herb. Du Du-32789
+5521	VALD
+5522	WU 4134 (spirit)
+5523	1498890
+5524	Herb. J.-M.Royer
+5525	KOR [KOR
+5526	L Beek
+5527	GLM [GLM Nr.
+5528	QCA-7010714 -
+5529	QCA-7010670 -
+5530	02715254
+5531	0120286
+5532	BCMX
+5533	HCIAD
+5534	HJBC
+5535	HUUA
+5536	00066
+5537	00067
+5538	03109070
+5539	03109071
+5540	ECUAMZ 
+5541	UTCEC
+5542	215148
+5543	6911392
+5544	6911393
+5545	6911394
+5546	215150
+5547	6911396
+5548	6911397
+5549	6911398
+5550	Herb. M.Çiçek
+5551	MOQ
+5552	OXA
+5553	0865934
+5554	HACAM
+5555	SPNH
+5556	P P04921958 available at: https://science.mnhn.fr/institution/mnhn/collection/p/item/p04921958
+5557	S-G S-G-7139 available at: http://herbarium.nrm.se/specimens/S-G-7139
+5558	CSFI [CSFI069613]
+5559	Herb. RILOG (The Silva Tarouca Research Institute for Landscape and Ornamental Gardening, Czech Republic)
+5560	?BOGOR
+5561	CDB
+5562	UH
+5563	RB [RB
+5564	CEPEC [CEPEC
+5565	US [US
+5566	VEN [VEN377719]
+5567	INPA [INPA
+5568	NY [NY1183432]
+5569	SPF [SPF
+5570	HUEFS [HUEFS
+5571	KEP (spirit collection,
+5572	KEP [spirit collection, No. barcode
+5573	GA [Fig.
+5574	IND [Fig.
+5575	GH [Fig.
+5576	0858306
+5577	UCLA
+5578	READING
+5579	L L.2066282
+5580	BO spirit
+5581	TTM spirit
+5582	MPU (MPU1375316)
+5583	wag
+5584	ppc
+5585	INPA [INPA132663]
+5586	K [K000370549]
+5587	MG [MG114944]
+5588	NY [NY02270928
+5589	RB [RB00579725]
+5590	BRNM 20169/36 (six sheets)
+5591	00557326
+5592	MO [MO1837714]
+5593	U [U0131055]
+5594	HFSL
+5595	KUN [KUN1511675]
+5596	KUN [KUN1511676]
+5597	JSU [HHE
+5598	01058154
+5599	WAG WAG.1524509
+5600	L L.4197610
+5601	L L.2336619
+5602	L L.2328612
+5603	L L.2332322
+5604	FSH
+5605	RB RB827493 [barcode
+5606	66061
+5607	Herb. El Mokni (at the Faculty of Pharmacy of Monastir)
+5608	SPIF
+5609	XBGH
+5610	HUA 220628, 220629 [mounted on 2 sheets]
+5611	FEUH incl. spirit
+5612	BR [BR0000015253569V]
+5613	Herb. Bingöl University
+5614	KFP
+5615	IZ
+5616	NERIST
+5617	KUN [KUN-1511702]
+5618	HAJB [HAJB#1256]
+5619	B [B#101204689]
+5620	USMP
+5621	STCH
+5622	THIM [THIM17728]
+5623	THIM [THIM18604]
+5624	CRY
+5625	DUKE [DUKE406710]
+5626	DUKE [DUKE405280]
+5627	Bali Botanic Garden
+5628	K (spirit)
+5629	K 001044306 a
+5630	K 001044306 b
+5631	WELT P016609 p.p. [top left plant]
+5632	WELT P016609 p.p. [bottom left and right plants]
+5633	EGE [EGE43202]
+5634	[EGE43739]
+5635	CORD [CORD
+5636	BHCB [BHCB
+5637	CORD [CORD00101760]
+5638	Fanamby field station herbarium
+5639	HAJB [HAJB #1260]
+5640	B [B #385857]
+5641	HAJB [HAJB #1261-1263]
+5642	B [B#532001]
+5643	HAJB [HAJB #1266-1267]
+5644	PAL-Gr [PAL-Gr #59075]
+5645	HDJM
+5646	NY [NY01340569]
+5647	MO [MO04661737,
+5648	E [inclusive flowering material in spirit]
+5649	ENSA
+5650	BZCM
+5651	LBH
+5652	411627
+5653	411628
+5654	00424011
+5655	00424012
+5656	XIN
+5657	ames
+5658	IBRC [IBRC Herb. No.
+5659	RIG [RIG22IRS-041]
+5660	RIG [RIG22IRS-035]
+5661	IBRC [Her. No.
+5662	RIG [22IRS-076]
+5663	RIG [RIG22IRS-038]
+5664	HUFSP
+5665	SD [SD249169]
+5666	SD [SD274504]
+5667	SD [SD274496]
+5668	K 001044317 p.p. [left hand plant]
+5669	K 001044317 p.p. [middle and right hand plants and fronds]
+5670	LAG
+5671	FNU [FNU0041324]
+5672	FNU [FNU0041325]
+5673	Ankara Yıldırım Beyazıt University - AYBU
+5674	S S-R-1578
+5675	CNS 151007 [3 sheets and spirit]
+5676	BRI to be distributed
+5677	CANB to be distributed
+5678	MEL to be distributed
+5679	K to be distributed
+5680	L to be distributed
+5681	SING to be distributed
+5682	JBB [JBB34413]
+5683	TOLI [TOLI26800]
+5684	M (spirit)
+5685	SEL [SEL117454]
+5686	WZUH
+5687	MW MW0595750,
+5688	MW MW0595753, MW0595754, MW0595755,
+5689	HCIB [HCIB
+5690	USM [spirit]
+5691	RFFP
+5692	TTM
+5693	HSNU [HSNU00079864]
+5694	HSNU [HSNU00079862]
+5695	Iran Kordestan Herbarium
+5696	XZ
+5697	L L.1479387
+5698	USTH 016424 (incl. spirit)
+5699	CBG 8413639 [2 sheets]
+5700	ERBG
+5701	CANB [to be distributed]
+5702	CUBH
+5703	K [2 sheets]
+5704	MSMN
+5705	HURB [2 sheets]
+5706	K 56265.000 (spirit)
+5707	KAG [KAG153198]
+5708	RB [RB00728413]
+5709	HTBC
+5710	KUN [KUN1543824]
+5711	MCH
+5712	BR [BR0000024941891]
+5713	L [L4446681],
+5714	KUBH (Kerala University Herbarium)
+5715	SGO [SGO119165]
+5716	DH
+5717	HARV
+5718	SD [SD223624]
+5719	CNS QRS
+5720	spirit QRS
+5721	WAG WAG.1610518
+5722	WAG WAG.1611082
+5723	WAG.1611084 [3 parts]
+5724	BRLU BRLU0027468 and spirit
+5725	BRLU [2 part specimen] BRLU0024324 and spirit
+5726	WAG WAG.1963405
+5727	CAS CAS-BOT-BC321655
+5728	UCD
+5729	CUVC Spirit
+5730	JAUM Spirit
+5731	HUA Spirit
+5732	MBK [MBK0328223]
+5733	GDA Fanero
+5734	Kasetsart University, Faculty of Forestry, Bangkok, Thailand
+5735	HHBG HZ054452, HZ054453,
+5736	LAE [LAE256314]
+5737	K [K000922490]
+5738	L [L.2882045]
+5739	ANUB [ANUB008515]
+5740	ANUB [ANUB008516,
+5741	CSH [CSH0192378]
+5742	NPH [NPH001410]
+5743	PE [PE02347459]
+5744	PE [PE02347457]
+5745	MAPANCE
+5746	US US3314101 (barcode
+5747	UGDA UGDA-DLSz [spirit]
+5748	CSH [CSH0186434]
+5749	CSH [CSH0186431], [CSH0186433], [CSH0118470]
+5750	MOL 000110 (1/2), 000111 (2/2)
+5751	MOL 000113, 000114, 000115,
+5752	P00516020 [2 part specimen]
+5753	UCM
+5754	F 628681 (fragment)
+5755	MOL 00003236 (fragment)
+5756	HUEFS [HUEFS000127109]
+5757	EIF [EIF
+5758	KSM
+5759	HJBHO
+5760	PAL Gr
+5761	WAGPD
+5762	BO [BO1985840]
+5763	BO [BO1985839]
+5764	BHCB [BHCB190958]
+5765	PDA spirit
+5766	WAG [2 part specimen] WAG.1662404 and spirit
+5767	AK 368108 p.p.
+5768	AK 368118 p.p.
+5769	AK 368118 p.p
+5770	herb. Cattaneo
+5771	BZ
+5772	WAG WAG.1466458
+5773	CQNM
+5774	Bingöl University Herbarium
+5775	SAC
+5776	Herb. Komarov Bot. Inst.
+5777	UMNG
+5778	UAMIZ [in two sheets]
+5779	WAG WAG.1620439
+5780	WAG.1620437 and spirit
+5781	GEO
+5782	ANBU [ANUB,
+5783	ANBU [ANUB, 008491,
+5784	GHU
+5785	FNU [FNU0041131]
+5786	FNU [FNU0041132]
+5787	herb. Institute of Bioresources and Sustainable Development
+5788	LNCM
+5789	CEPEC [2 sheets]
+5790	GOE
+5791	LZ LZ-32
+5792	DR DR-41
+5793	DR DR-41 214, pro parte
+5794	TASH [TASH-003743]
+5795	TK [TK-002339]
+5796	TASH [TASH-003748
+5797	Bingöl University Faculty of Arts and Sciences Herbarium
+5798	Herb. K.Rushforth
+5799	MO 3,134,900
+5800	PR [2 sheets] 973721,
+5801	PR 973723, 973724, 973725, 973726,
+5802	PRA 20405,
+5803	LUSC
+5804	BK 71524 [238-D]
+5805	BK 71546 [238-B]
+5806	WT [238-C,E,F]
+5807	US [US-3742219]
+5808	NTUF F00008308–F00008315 [8 sheets]
+5809	LEC ORC
+5810	YUKU YUKU02074622 -
+5811	FAUC [FAUC36396]
+5812	BM [BM000900353]
+5813	HAST [HAST29822]
+5814	BM [BM000846380]
+5815	E [E00320675]
+5816	MO [MO-3105792, acc. #
+5817	L [L.2882218]
+5818	K [K000014635]
+5819	CSFI [CSFI069626]
+5820	Herb. Akçiçek
+5821	L L.2520634
+5822	WAG [2 part specimen] WAG.1672632
+5823	PRA 26145, and duplicates
+5824	BRNM 735357 [no. det.
+5825	PRA [no. det
+5826	PRA 36094, and duplicates
+5827	KAM 36880 (det. no.)
+5828	PRA 37010 (det. no.)
+5829	PRA 27323, and duplicates
+5830	PRA 27288, and duplicates
+5831	PRA 35957, and duplicates
+5832	PRA 26148, and duplicates
+5833	PRA [no. det.
+5834	PRA 27686, and duplicates
+5835	PRA 36089, and duplicates
+5836	PRA 36076, and duplicates
+5837	PRA 26126, and duplicates
+5838	PRA 27695, and duplicates
+5839	PRA 25473, and duplicates
+5840	PRA 25479, and duplicates
+5841	PRA 25435, and duplicates
+5842	PRA 36088, and duplicates
+5843	PRA 27673, and duplicates
+5844	PRA 36161, and duplicates
+5845	PRA 25516, and duplicates
+5846	PRA 36099, and duplicates
+5847	PRA 35755, and duplicates
+5848	PRA 35776, and duplicates
+5849	PRA 35837 and duplicates
+5850	PRA 25406, and duplicates
+5851	PRA 27342, and duplicates
+5852	PRA 27278, and duplicates
+5853	PRA 26062, and duplicates
+5854	PRA 26113, and duplicates
+5855	PRA 26175, and duplicates
+5856	PRA 36036, and duplicates
+5857	PRA 36046, and duplicates
+5858	PRA 26151, and duplicates
+5859	PRA 27677, and duplicates
+5860	PRA 36052, and duplicates
+5861	TNM TNM-BP02449
+5862	BM [BM-000801750,
+5863	US [US-01580253
+5864	TNM TNM-BP00352
+5865	TNM TNM-BP03371
+5866	FNU [FNU0041314]
+5867	FNU [FNU0041315]
+5868	HAG
+5869	KEP [KEP280004 (spirit collection)]
+5870	KEP spirit collection
+5871	UPCB [spirit]
+5872	TOSEHIM, herb.Orchid Society of Eastern Himalaya
+5873	MBK [MBK
+5874	UBC [UBC
+5875	PDA [spirit]
+5876	L [L4420634]
+5877	PAL-Gr [PAL-Gr #40262]
+5878	B [B #100069543]
+5879	IBIW n
+5880	TOB n
+5881	IBIW 2a
+5882	L L.2972067
+5883	NSW 834760 [spirit]
+5884	MO [MO-1405111]
+5885	WAG WAG.1667822
+5886	HUEFS HUEFS108806 [on two sheets]
+5887	MAC [MAC0065667]
+5888	SYS [SYS00236854]
+5889	SYS [SYS00236855]
+5890	[to be distributed]
+5891	QME
