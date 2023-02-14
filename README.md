@@ -1,4 +1,4 @@
-# this is where I will be putting the preliminary files for the graphing in the netowrk until I clean th efiles up and sort them into more legible gorupings, I will also add the presets below for gephi 
+# This is where I will be putting the preliminary files for the graphing in the netWOrk until I clean th efiles up and sort them into more legible gorupings, I will also add the presets below for gephi 
 
 FOR IPNI NETWORK:
 1. load ipni node file first before adding any layouts into the node tab in gephi
